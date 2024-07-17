@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type = 'text/css' rel = 'stylesheet' href = 'styles5.css'>
+    </head>
+    <body>
+	<nav class="menu">
+   <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open" />
+   <label class="menu-open-button" for="menu-open">
+    <span class="lines line-1"></span>
+    <span class="lines line-2"></span>
+    <span class="lines line-3"></span>
+  </label>
+<!-- can implement font awesome in anchor tags for a better appearance-->
+   <a href="#" class="menu-item blue"></a>
+   <a href="#" class="menu-item green"> </a>
+   <a href="#" class="menu-item red">  </a>
+   <a href="#" class="menu-item purple">  </a>
+   <a href="#" class="menu-item orange">  </a>
+   <a href="#" class="menu-item lightblue"> </a>
+
+</nav>
+<div id = 'nmode'>
+<label>
+	<input type = 'checkbox'>
+	<span class = 'slider'></span>
+ </label>
+</div>
+<h1>Night mode toggle with custom cursor , Icon Navigator and Parallax using 3d transforms</h1>
+
+<img class='img1' src="cuptea.jpg" style="--f:.08;--r:20px">
+
+</body>
+</html>

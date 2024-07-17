@@ -1,0 +1,89 @@
+
+.header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding:20px;
+  border-bottom-left-radius: 20px;
+}
+
+.main-content {
+  display: flex;
+  justify-content: center;
+  flex-direction:column;
+  min-height: calc(100vh - 120px);
+  align-items:center;
+  
+}
+.main-content > div{
+  text-align: center;
+  font-family:Cursive;
+  font-size:3vw;
+  flex-shrink:0.8;
+}
+
+.content {
+  text-align: center;
+  font-family:Cursive;
+  font-size:3vw;
+  flex-shrink:0.8;
+}
+
+
+.content >  button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  height:10vh;
+  width:10vw;
+  cursor: pointer;
+  line-height:10vh;
+  overflow:hidden;
+  transition: background-color 0.3s ease;
+}
+
+.content >  button:hover {
+  background-color: #2980b9;
+  transition:border-radius .3s;
+  border-radius:5px;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding:20px;
+  text-align: center;
+  border-top-right-radius: 20px;
+}
+
+@media (max-width: 600px) {
+  .main-content {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+
+.typewrite{
+  font-size : 4vw;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .09em solid grey; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  #letter-spacing: .1em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    caret .5s infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 ;}
+  to { width: 80vw ;}
+}
+
+/* The typewriter cursor effect */
+@keyframes caret {
+  from, to { border-color: transparent }
+  50% { border-color: grey; }
+}

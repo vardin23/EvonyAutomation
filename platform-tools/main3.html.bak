@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles3.css">
+  <title>Animated Responsive Website</title>
+</head>
+<body>
+
+<header class="header"> <!-- basic simple header -->
+	<ul>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Contact</a></li>
+		  <li><h1>Website</h1><li>
+      </ul>
+	
+	
+	
+</header>
+
+<div class="wrapper">
+  <h1 class = 'typewrite'>Flexbox and keyframes implementation</h1>
+<ul class="flex tabs">
+  <li><h2>Info Tab 1</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  <li><h2>Info Tab 2</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  <li><h2>Info Tab 3</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  <li><h2>Info Tab 4</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  <li><h2>Info Tab 5</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  
+</ul>
+
+  <h1>CSS Grid Layout</h1>
+<ul class="grid tabs">
+  <li><h2>Info Tab 1</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  <li><h2>Info Tab 2</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  <li><h2>Info Tab 3</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  <li><h2>Info Tab 4</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  <li><h2>Info Tab 5</h2>
+    <p>The Page uses keyframes , flexbox , gradients , hover transitions and is tested to be responsive over a wide variety of mobile devices
+    </p></li>
+  
+</ul>
+</div>
+<footer class = "footer">Footer</footer>
+
+</body>
+</html>

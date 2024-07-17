@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type = 'text/css' rel = 'stylesheet' href = 'styles4.css'>
+    </head>
+    <body>
+</br>
+ <label>
+                <input type = 'checkbox'>
+                <span class = 'slider'></span>
+            </label>
+
+			
+
+<div>
+  <figure>
+    <figcaption>Live Fast and Die Young</figcaption>
+  </figure>
+</div>
+<button id = 'bgchanger'>Hover to change Button background</button>
+	</body>
+</html>

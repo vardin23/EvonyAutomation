@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  
+<Title> CSS Project </title>
+<body>
+<header class="header">Header</header>
+<div class="flex-container">
+  <!-- Main Body Content-->
+  <div><p id ='letter_first'>Lorem</p></div>
+  <div><p id ='letter_first'>Enim</p> ></div>
+  <div><p id ='letter_first'>Nulla</p></div>  
+  <div><p id ='letter_first'>Ut</p></div>
+  <div><p id ='letter_first'>Eu</p></div>  
+ <!-- End of main content-->
+</div>
+<footer class="footer">Footer</footer>
+</body>
+</html>

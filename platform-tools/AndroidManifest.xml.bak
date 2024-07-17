@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" android:installLocation="auto" package="com.beatgames.beatsaber" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true"/>
+    <uses-feature android:name="android.hardware.vr.headtracking" android:required="true" android:version="1"/>
+    <uses-feature android:glEsVersion="0x00030000"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false"/>
+    <uses-permission android:name="com.oculus.permission.DEVICE_CONFIG_PUSH_TO_CLIENT"/>
+    <application android:allowBackup="true" android:debuggable="true" android:icon="@mipmap/app_icon" android:label="@string/app_name" android:networkSecurityConfig="@xml/network_sec_config">
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode" android:excludeFromRecents="true" android:hardwareAccelerated="false" android:launchMode="singleTask" android:name="com.unity3d.player.UnityPlayerActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="com.oculus.intent.category.VR"/>
+            </intent-filter>
+            <meta-data android:name="com.oculus.vr.focusaware" android:value="true"/>
+        </activity>
+        <meta-data android:name="com.samsung.android.vr.application.mode" android:value="vr_only"/>
+        <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="false"/>
+        <meta-data android:name="com.oculus.vr.focusaware" android:value="true"/>
+        <meta-data android:name="com.oculus.supportedDevices" android:value="quest|delmar"/>
+        <meta-data android:name="unity.splash-mode" android:value="0"/>
+        <meta-data android:name="unity.splash-enable" android:value="false"/>
+        <meta-data android:name="unity.build-id" android:value="7a1e012b-c456-4b79-b3d2-b878d039f91e"/>
+        <meta-data android:name="com.oculus.ossplash" android:value="true"/>
+        <receiver android:exported="true" android:name="com.oculus.deviceconfigclient.DeviceConfigClientReceiver">
+            <intent-filter>
+                <action android:name="oculus.intent.action.DC_SET_CLIENT_VALUES"/>
+            </intent-filter>
+        </receiver>
+    </application>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+</manifest>

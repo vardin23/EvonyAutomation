@@ -1,0 +1,493 @@
+##[string]$instx = .\adb devices
+##$instx = $instx.Split('attached ')[1].Split('device')[0].trim()
+#$lastTruceTimeChk = Get-Content('truceTime.txt')
+$instx = 'emulator-5558'
+$host.ui.RawUI.WindowTitle = 'Vardin'
+$presets = 72,152,242,312,392
+$swiper = 1150,652
+$ic = 0
+$xxx = Get-Random(2)
+#$remTruceHrs = $lastTruceTime[2]
+#$lastTruceDuration = $lastTruceTime[1]
+#$lastTruceTime = $lastTruceTime[0]
+$quickSwipesAsst = 14
+$quickSwipesAsst = 12
+
+function presetSelector([int]$npresets){
+	$i=0
+	$presets = 72,152,242,312,392
+	For ($i=0; $i -lt $presets.Length; $i++){
+		.\adb -s $instx shell input touchscreen tap $presets[$i] 135
+		start-sleep 1.5
+		screenSnap preset-$instx.png
+		$textt= (py locFinder.py .\tmp\preset-$instx.png selMainGenButt.png)
+		if($textt -eq $null){echo $i ; $i = 0 ; break}
+	}
+}
+
+function DDropGenfinderNew{
+		.\adb -s $instx shell input touchscreen tap 116 660   #for rallies
+		#.\adb -s $instx shell input touchscreen tap 116 324
+		start-sleep 0.1
+		.\adb -s $instx shell input touchscreen tap 360 145
+		start-sleep 3
+		screenSnap curgen-$instx.png
+		start-sleep 0.25
+		$x = 1
+		while($x -lt 6){
+		#[string] $baib =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genBaib.png
+		#[string] $cleo = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genCleo.png
+		#[string] $cleounsp = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genCleoUnsp.png
+		#[string] $nath =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNath.png
+		#[string] $nathSpec =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNathSpec.png
+		#[string] $baibunsp = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genBaibUnspec.png
+		[string] $baib = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\BaibList.png
+		[string] $cleo = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\CleoList.png
+		if ($baib-ne $null){$jindX = ([int]$baib.Split(',')[0]) ; $jindY = ([int]$baib.Split(',')[1]) ;echo 'selecting Baibars' ; .\adb -s $instx shell input touchscreen swipe $jindX $jindY $jindX $jindY 770 ;start-sleep 1.5; $mainGen='Baibars';break}
+		if ($cleo-ne $null){$jindX = ([int]$cleo.Split(',')[0]) ; $jindY = ([int]$cleo.Split(',')[1]) ;echo 'selecting Cleopatra' ; .\adb -s $instx shell input touchscreen swipe $jindX $jindY $jindX $jindY 770 ; start-sleep 1.5;$mainGen='Cleop' ; break}
+		.\adb -s $instx shell input touchscreen swipe 360 700 360 400 450
+		start-sleep 2
+		screenSnap curgen-$instx.png
+		#echo $baib , $cleo , $nath , $nathSpec , $baibunsp
+		#read-host "Press ENTER to continue..."
+		echo "Searching in progress"
+		$x = $x + 1
+}
+		if ($x -eq 6 ){.\adb -s $instx shell input keyevent 4}
+		#asst search ↓
+		else  {
+			#timeout 3
+			start-sleep 0.75
+			.\adb -s $instx shell input touchscreen tap 116 874		#asst gen selecting coord for monsters
+			#.\adb -s $instx shell input touchscreen tap 116 480
+			start-sleep 0.1
+			.\adb -s $instx shell input touchscreen tap 360 145
+			start-sleep 2
+			screenSnap curgen-$instx.png
+			#while($sm -lt $quickSwipesAsst ){.\adb -s $instx shell input swipe 510 950 510 450 130;$sm++;start-sleep 0.3}
+			
+			while($x -lt 5){
+				$sm = 0
+				
+			[string] $nath = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\NathanaelList.png
+			#[string] $marius = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\mariusList.png
+			#[string] $lucy = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\lucyList.png
+			if ($nath-ne $null ){$jindX = ([int]$nath.Split(',')[0]) ; $jindY = ([int]$nath.Split(',')[1]) ;echo 'selecting Nathanael' ; .\adb -s $instx shell input touchscreen swipe $jindX $jindY $jindX $jindY 770 ;start-sleep 1.5; break}
+			#if ($marius-ne $null -and $mainGen -ne 'marius'){$jindX = ([int]$marius.Split(',')[0]) ; $jindY = ([int]$marius.Split(',')[1]) ;echo 'selecting marius' ; .\adb -s $instx shell input touchscreen swipe $jindX $jindY $jindX $jindY 700 ; break}
+			#if ($lucy-ne $null){$jindX = ([int]$lucy.Split(',')[0]) ; $jindY = ([int]$lucy.Split(',')[1]) ;echo 'selecting Lucy' ; .\adb -s $instx shell input touchscreen swipe $jindX $jindY $jindX $jindY 700 ; break}
+			.\adb -s $instx shell input touchscreen swipe 360 700 360 400 450
+			start-sleep 3
+			screenSnap curgen-$instx.png
+			#echo $baib , $cleo , $nath , $nathSpec , $baibunsp
+			#read-host "Press ENTER to continue..."
+			echo "Searching in progress"
+			$x = $x + 1
+			
+		}
+		if ($x -ge 5){.\adb -s $instx shell input keyevent 4}
+	
+	}
+	
+	
+}
+
+function screenSnap([string]$one){
+		.\adb -s $instx shell screencap -p /sdcard/$one
+		.\adb -s $instx pull /sdcard/$one ./tmp/$one | Out-Null
+	
+}
+
+function genfinder{
+	
+	.\adb -s $instx shell screencap -p /sdcard/gen-$instx.png
+	.\adb -s $instx pull /sdcard/gen-$instx.png ./tmp/gen-$instx.png | Out-Null
+	magick convert ./tmp/gen-$instx.png -crop 97x53+231+635 .\tmp\gen-$instx.png
+	$textt= (py captioner.py .\tmp\gen-$instx.png )
+	if (($textt.Contains('elec'))){
+		.\adb -s $instx shell input touchscreen tap 116 660
+		start-sleep 1.2
+		$x = 1
+		while($x -lt 10){
+		
+		.\adb -s $instx shell screencap -p /sdcard/gen-$instx.png
+		.\adb -s $instx pull /sdcard/gen-$instx.png ./tmp/curgen-$instx.png | Out-Null
+		
+		[string] $baib =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genBaib.png
+		[string] $cleo = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genCleo.png
+		[string] $cleounsp = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genCleoUnsp.png
+		[string] $nath =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNath.png
+		[string] $nathSpec =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNathSpec.png
+		[string] $baibunsp = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genBaibUnspec.png
+		
+		if ($baib-ne $null){$baibY = ([int]$baib.Split(',')[1] + 24) ;echo 'selecting Baib',$baibY;.\adb -s $instx shell input touchscreen tap 625 $baibY ; break}
+		if ($baibunsp -ne $null){$baibY = ([int]$baibunsp.Split(',')[1] + 49) ;echo 'selecting BaibUnsp',$baibY;.\adb -s $instx shell input touchscreen tap 560 $baibY; break}
+		if ($cleounsp -ne $null){$baibY = ([int]$cleounsp.Split(',')[1] + 15) ;echo 'selecting CleoUnsp',$baibY;.\adb -s $instx shell input touchscreen tap 625 $baibY ; break}
+		if ($cleo -ne $null){$baibY = ([int]$cleo.Split(',')[1] + 15) ;echo 'selecting cleo',$baibY;.\adb -s $instx shell input touchscreen tap 625 $baibY ; break}
+		
+		Start-Job -ScriptBlock{
+			.\adb -s $using:instx shell input swipe 500 1000 500 400 500
+				}
+		start-sleep -ms 650
+		get-job | stop-job
+		start-sleep 1
+		.\adb -s $instx shell screencap -p /sdcard/curgen-$instx.png
+		.\adb -s $instx pull /sdcard/curgen-$instx.png ./tmp/curgen-$instx.png | Out-Null
+		
+		
+		
+		
+		echo $baib , $cleo , $nath , $nathSpec , $baibunsp
+		#read-host "Press ENTER to continue..."
+		$x = $x + 1
+}
+		if ($x -eq 10){.\adb -s $instx shell input keyevent 4}
+		else {
+			start-sleep 1.25
+			.\adb -s $instx shell input touchscreen tap 116 874
+			start-sleep 0.7
+			while($sm -lt $quickSwipesAsst ){.\adb -s $instx shell input swipe 510 950 510 450 130;$sm++;start-sleep 0.3}
+			while($x -lt 10){
+				$sm = 0
+				
+				[string] $nath =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNath.png
+				[string] $nathSpec =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNathSpec.png
+				
+				if ($nath -ne $null){$nathY = ([int]$nath.Split(',')[1] + 64) ;echo 'selecting',$nathY;.\adb -s $instx shell input touchscreen tap 625 $nathY ; break}
+				if ($nathSpec -ne $null){$nathY = ([int]$nathSpec.Split(',')[1] + 64) ;echo 'selecting',$nathY;.\adb -s $instx shell input touchscreen tap 625 $nathY ; break}
+				
+				
+		Start-Job -ScriptBlock{
+			.\adb -s $using:instx shell input swipe 500 1000 500 400 500
+				}
+		start-sleep -ms 650
+		get-job | stop-job
+		start-sleep 1
+				.\adb -s $instx shell screencap -p /sdcard/curgen-$instx.png
+				.\adb -s $instx pull /sdcard/curgen-$instx.png ./tmp/curgen-$instx.png | Out-Null
+				$x++
+					
+			
+		}
+	
+	}
+	if ($x -eq 10){.\adb -s $instx shell input keyevent 4}
+}
+	
+}
+
+function genfinderDDrop{
+	
+	.\adb -s $instx shell screencap -p /sdcard/gen-$instx.png
+	.\adb -s $instx pull /sdcard/gen-$instx.png ./tmp/gen-$instx.png | Out-Null
+	magick convert ./tmp/gen-$instx.png -crop 97x53+231+635 .\tmp\gen-$instx.png
+	$textt= (py captioner.py .\tmp\gen-$instx.png )
+	if (($textt.Contains('elec'))){
+		.\adb -s $instx shell input touchscreen tap 116 660
+		start-sleep 0.6
+		.\adb -s $instx shell input touchscreen tap 350 150
+		start-sleep 0.6
+		$x = 1
+		while($x -lt 10){
+		
+		.\adb -s $instx shell screencap -p /sdcard/gen-$instx.png
+		.\adb -s $instx pull /sdcard/gen-$instx.png ./tmp/curgen-$instx.png | Out-Null
+		
+		[string] $baib =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genBaib.png
+		[string] $cleo = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genCleo.png
+		[string] $cleounsp = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genCleoUnsp.png
+		[string] $nath =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNath.png
+		[string] $nathSpec =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNathSpec.png
+		[string] $baibunsp = py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genBaibUnspec.png
+		
+		if ($baib-ne $null){$baibY = ([int]$baib.Split(',')[1] + 24) ;echo 'selecting Baib',$baibY;.\adb -s $instx shell input touchscreen tap 625 $baibY ; break}
+		if ($baibunsp -ne $null){$baibY = ([int]$baibunsp.Split(',')[1] + 49) ;echo 'selecting BaibUnsp',$baibY;.\adb -s $instx shell input touchscreen tap 560 $baibY; break}
+		if ($cleounsp -ne $null){$baibY = ([int]$cleounsp.Split(',')[1] + 15) ;echo 'selecting CleoUnsp',$baibY;.\adb -s $instx shell input touchscreen tap 625 $baibY ; break}
+		if ($cleo -ne $null){$baibY = ([int]$cleo.Split(',')[1] + 15) ;echo 'selecting cleo',$baibY;.\adb -s $instx shell input touchscreen tap 625 $baibY ; break}
+		
+		Start-Job -ScriptBlock{
+			.\adb -s $using:instx shell input swipe 500 1000 500 400 500
+				}
+		start-sleep -ms 650
+		get-job | stop-job
+		start-sleep 1
+		.\adb -s $instx shell screencap -p /sdcard/curgen-$instx.png
+		.\adb -s $instx pull /sdcard/curgen-$instx.png ./tmp/curgen-$instx.png | Out-Null
+		
+		
+		
+		
+		echo $baib , $cleo , $nath , $nathSpec , $baibunsp
+		#read-host "Press ENTER to continue..."
+		$x = $x + 1
+	}
+		if ($x -eq 10){.\adb -s $instx shell input keyevent 4}
+		else {
+			start-sleep 1.25
+			.\adb -s $instx shell input touchscreen tap 116 874
+			start-sleep 0.5
+			.\adb -s $instx shell input touchscreen tap 350 150
+			start-sleep 0.5
+			#while($sm -lt $quickSwipesAsst ){.\adb -s $instx shell input swipe 510 950 510 450 130;$sm++;start-sleep 0.3}
+			while($x -lt 10){
+				$sm = 0
+				
+				[string] $nath =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNath.png
+				[string] $nathSpec =py locFinder.py .\tmp\curgen-$instx.png .\EvonyImgs\genNathSpec.png
+				
+				if ($nath -ne $null){$nathY = ([int]$nath.Split(',')[1] + 64) ;echo 'selecting',$nathY;.\adb -s $instx shell input touchscreen tap 625 $nathY ; break}
+				if ($nathSpec -ne $null){$nathY = ([int]$nathSpec.Split(',')[1] + 64) ;echo 'selecting',$nathY;.\adb -s $instx shell input touchscreen tap 625 $nathY ; break}
+				
+				
+		Start-Job -ScriptBlock{
+			.\adb -s $using:instx shell input swipe 500 1000 500 400 500
+				}
+		start-sleep -ms 650
+		get-job | stop-job
+		start-sleep 1
+				.\adb -s $instx shell screencap -p /sdcard/curgen-$instx.png
+				.\adb -s $instx pull /sdcard/curgen-$instx.png ./tmp/curgen-$instx.png | Out-Null
+				$x++
+					
+			
+		}
+	
+	}
+	if ($x -eq 10){.\adb -s $instx shell input keyevent 4}
+}
+	
+}
+
+function mainHomeSeq{
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		start-sleep 1.5
+		.\adb -s $instx shell screencap -p /sdcard/coq.png
+		.\adb -s $instx pull /sdcard/coq.png ./tmp/coq-$instx.png | Out-Null
+		magick convert ./tmp/coq-$instx.png -crop 117x30+182+742 .\tmp\coqx-$instx.png
+		$coq = py captioner.py .\tmp\coqx-$instx.png
+		echo $coq >> logs.txt
+		if ($coq.Contains('nce')){.\adb -s $instx shell input keyevent 4}
+}
+
+function TruceWork{
+	mainHomeSeq
+	.\adb -s $instx shell screencap -p /sdcard/keepOrWorld$instx.png
+	.\adb -s $instx pull /sdcard/keepOrWorld$instx.png ./tmp/keepOrWorld$instx.png | Out-Null
+	$keepScrOrNot = py locFinder.py ./tmp/keepOrWorld$instx.png .\RallyShite\castle.png
+	if ($keepScrOrNot -eq 0){
+		.\adb -s $instx shell input touchscreen tap 667 1207
+		start-sleep 10
+		##press march slot hide button here(missing)
+		title = py locFinder.py .\tmp\latSnap.png .\RallyShite\TruceAgreement.png
+		.\adb -s $instx shell input touchscreen tap 360 640
+		start-sleep 1.5
+		.\adb -s $instx shell input touchscreen tap 395 482
+		start-sleep 0.5
+		[string]$tapX = title.Split(',')[0]
+		[string]$tapY = title.Split('y')[1]
+		.\adb -s $instx shell input touchscreen tap $tapX $tapY
+		screenSnap('useTruceScreen.png')
+		$loc8H = py locFinder.py .\tmp\useTruceScreen.png truce8Hr.png
+		$loc24H = py locFinder.py .\tmp\useTruceScreen.png truce24Hr.png
+		[int]$yloc8 = $loc8H.Split(',')[1] + 55
+		[int]$yloc24 = $loc24H.Split(',')[1] + 55
+		.\adb -s $instx shell input touchscreen tap 600 $yloc8
+		
+		
+		start-sleep 1
+		.\adb -s $instx shell input touchscreen tap ##can't be static
+	}
+	
+	
+}
+
+function rsonchk {
+	.\adb -s $instx shell screencap -p /sdcard/rson$instx.png
+	.\adb -s $instx pull /sdcard/rson$instx.png ./tmp/rson$instx.png | Out-Null
+	magick convert ./tmp/rson$instx.png -crop 247x38+240+24 .\tmp\rsonx$instx.png
+	magick convert ./tmp/rson$instx.png -crop 161x30+280+1209 .\tmp\rsony$instx.png
+	$textt= (py captioner.py .\tmp\rsonx$instx.png ) <# to get some debug output tryremoving '[int]' , which makes $coord reference to function#>
+	$textt2= (py captioner.py .\tmp\rsony$instx.png )
+	echo $textt >> logs.txt
+	if( (!$textt.Contains('War')) -or (!$textt2.Contains('attle')) ){
+		echo 'Not correct screen , correcting now'
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		.\adb -s $instx shell input keyevent 4
+		timeout 2 | Out-Null
+		.\adb -s $instx shell screencap -p /sdcard/coq$instx.png
+		.\adb -s $instx pull /sdcard/coq$instx.png ./tmp/coq$instx.png | Out-Null
+		magick convert ./tmp/coq$instx.png -crop 117x30+182+742 .\tmp\coqx$instx.png
+		$coq = py captioner.py .\tmp\coqx$instx.png
+		echo $coq >> logs.txt
+		if ($coq.Contains('nce')){.\adb -s $instx shell input keyevent 4}
+		.\adb -s $instx shell input touchscreen tap 654 975
+		start-sleep 0.75
+		.\adb -s $instx shell input touchscreen tap 196 715
+	}
+	
+}
+
+while ($true) {
+	
+	##Truce chking routine
+		
+	#	if( (  ( $lastTruceTimeChk -eq 0 )   -or (	(Get-date - $lastTruceTimeChk).hours > 3)	) -or (($remTruceHrs -le 0) -and ($remTruceMins -le 30))){
+	#	TruceWork
+	#}
+	
+	##end
+	
+	
+	echo 'chking if right screen'
+	rsonchk
+	echo 'beginning next loop'
+
+	.\adb -s $instx shell screencap -p /sdcard/screen$instx.png
+	.\adb -s $instx pull /sdcard/screen$instx.png ./Rallyshite/snaps/screen$instx.png | Out-Null
+	$coord=[int] (py tester.py .\Rallyshite\snaps\screen$instx.png .\Rallyshite\greenjoin.png) <# to get some debug output tryremoving '[int]' , which makes $coord reference to function#>
+	$coordY = $coord + 47
+	if ($coordY -eq 47){
+		echo 'Not Joined , no rally , swiping nd chking'
+		$xxx = Get-Random(2)
+		.\adb -s $instx shell input swipe 415 $swiper[$xxx] 415 $swiper[1-$xxx]
+		timeout 3 | Out-Null
+		continue
+	}
+	$coordremTime = $coordY - 12
+	$moncord = $coordY - 175
+	$monpCord = $coord - 319
+	magick convert ./Rallyshite/snaps/screen$instx.png -crop 90x22+565+$coordY ./Rallyshite/marchTime$instx.png
+	magick convert ./Rallyshite/snaps/screen$instx.png -crop 116x30+212+$coordremTime ./Rallyshite/rallyTime$instx.png
+	magick convert ./Rallyshite/snaps/screen$instx.png -crop 210x33+472+$moncord ./Rallyshite/monCap$instx.png
+	$YON=py captioner.py ./Rallyshite/marchTime$instx.png
+	$YON2=py captioner.py ./Rallyshite/rallyTime$instx.png
+	$monsName = py captioner.py ./Rallyshite/monCap$instx.png
+	
+	if (	!($monsName.contains('mir') -or ($monsName.contains('an (')) -or ($monsName.contains('ian')) -or  ($monsName.contains('kullc')) -or  ($monsName.contains('ong')) -or  ($monsName.contains('hinx')) -or $monsName.contains('rlord') -or $monsName.contains('ydra') -or ($monsName.contains('itch')) -or ($monsName.contains('iking')))    ){
+		echo $monsName
+		echo 'Weakling , inefficient bad monster'
+		$xxx = get-random 2
+		.\adb -s $instx shell input swipe 415 $swiper[$xxx] 415 $swiper[1-$xxx]
+		continue}
+	
+	$marchTime=[int]$YON.Split(':')[-1] + 60*[int]$YON.Split(':')[-2] + 12
+	$rallyTime=[int]$YON2.Split(':')[-1] + 60*[int]$YON2.Split(':')[-2]
+	if (($marchTime -lt $rallyTime) -and ($rallyTime -lt 301)){
+	.\adb -s $instx shell input touchscreen tap 466 ($coordY -47)
+	start-sleep 1.5 | Out-Null
+	
+	.\adb -s $instx shell screencap -p /sdcard/monPow-$instx.png
+	.\adb -s $instx pull /sdcard/monPow-$instx.png ./tmp/monPow-$instx.png | Out-Null
+	magick convert .\tmp\monPow-$instx.png -crop 124x33+547+120 ./Rallyshite/monpow-$instx.png
+	$monsPower = (py captioner.py ./Rallyshite/monpow-$instx.png 1)
+	#$dCo = ($monsPower -replace '[^.]','').Length
+	[regex]$mtchStr = '[0-9]{1,3}\.?[0-9]?M'
+	$monsPower = $mtchStr.Matches($monsPower) | foreach-object {$_.Value}
+	echo '$monspower = '$monspower
+	$monsPower = $monsPower.Split('M')[0]
+	$monsPower = [int]$monsPower
+	if ($monsPower -gt 30 -and ($monsName.contains('iking')) )
+	{}
+	elseif ( $monsPower -lt 70 ){
+			
+		write-host -nonewline 'weakling monster power almost:'$monsPower
+		.\adb -s $instx shell input keyevent 4
+		$xxx = Get-Random(2)
+		.\adb -s $instx shell input swipe 415 $swiper[$xxx] 415 $swiper[1-$xxx]
+		continue}
+		elseif ($monsName.contains('an (') -and $monsPower -lt 125) {
+			write-host -nonewline 'Bad Pan:'$monsPower
+		.\adb -s $instx shell input keyevent 4
+		$xxx = Get-Random(2)
+		.\adb -s $instx shell input swipe 415 $swiper[$xxx] 415 $swiper[1-$xxx]
+		continue
+		}
+	
+	#echo 'tapping 365 1219'
+	
+	
+	
+	.\adb -s $instx shell input touchscreen tap 365 1219
+	timeout 2 | Out-Null
+	.\adb -s $instx shell screencap -p /sdcard/jorNot$instx.png
+	.\adb -s $instx pull /sdcard/jorNot$instx.png ./Rallyshite/snaps/jorNot$instx.png | Out-Null
+	magick convert ./Rallyshite/snaps/jorNot$instx.png -crop 100x50+156+1205 ./Rallyshite/jorNotX$instx.png
+	$jorNot = [string](py captioner.py ./Rallyshite/jorNotX$instx.png)
+	if (!$jornot.Contains('es')){
+		echo  'Probably out of marches , going back to Alliance War tab'
+		.\adb -s $instx shell input keyevent 4
+		timeout 1 | Out-Null
+		$xxx = Get-Random(2)
+		.\adb -s $instx shell input swipe 415 $swiper[$xxx] 415 $swiper[1-$xxx]
+		timeout 2 | Out-Null
+		continue
+		
+	}
+	timeout 1 | Out-Null
+	#.\adb -s $instx shell input touchscreen tap $presets[$ic%3] 145
+	$PregenOrNot = presetSelector 4
+	
+	#.\adb -s $instx shell input touchscreen tap 261 1240
+	start-sleep 0.5
+	if($PregenOrNot -eq $null){DDropGenfinderNew}
+	if(($PregenOrNot -eq 0) -or ($PregenOrNot -eq 1)){
+	.\adb -s $instx shell input touchscreen tap 261 1240
+	$ix = 0
+	
+	
+	while($ix -lt 11){
+	.\adb -s $instx shell input touchscreen swipe 493 960 493 300
+	start-sleep 0.65
+	$ix++}}
+	
+	
+	start-sleep 1
+	.\adb -s $instx shell input touchscreen tap 492 800
+	.\adb -s $instx shell input touchscreen tap 537 1225
+	timeout 1 | Out-Null
+	.\adb -s $instx shell screencap -p /sdcard/stam.png
+	.\adb -s $instx pull /sdcard/stam.png ./tmp/stam$instx.png | Out-Null
+	copy .\tmp\stam$instx.png .\Rallyshite\stam$instx.png
+	magick convert ./Rallyshite/stam$instx.png -crop 114x38+421+737 ./Rallyshite/stamCon$instx.png
+	$stamNeeded = py captioner.py ./Rallyshite/stamCon$instx.png
+	if (  ( $stamNeeded -ne $null) -and ($stamNeeded.Contains('rm'))  ){
+		.\adb -s $instx shell input touchscreen tap 474 756
+		.\adb -s $instx shell input swipe 384 1106 384 735
+		timeout 2 | Out-Null <# gap to compensate for swipe#>
+		.\adb -s $instx shell screencap -p /sdcard/stamScreen$instx.png  
+		.\adb -s $instx pull /sdcard/stamScreen$instx.png ./Rallyshite/stamScreen$instx.png | Out-Null
+		$stamButton = [int] (py tester.py .\Rallyshite\stamScreen$instx.png .\Rallyshite\stam_100.png)
+		$stamButton+=90
+		.\adb -s $instx shell input touchscreen tap 625 $stamButton <#Use button#>
+		#.\adb -s $instx shell input touchscreen tap 598.7 679	<# + button#>
+		.\adb -s $instx shell input touchscreen tap 507 917	<#Ok on use stam screen button#>
+		start-sleep 1.75 | Out-Null										<#Progress loader after using stams#>
+		<#.\adb -s $instx shell input touchscreen tap 45 55#>
+		echo 'Tried consuming 2*100 stams , going bck now'
+		.\adb -s $instx shell input keyevent 4 <#  back after using stam  #>
+		timeout 1 | Out-Null
+		.\adb -s $instx shell input touchscreen tap 537 1225	<#  Join button  #>
+		
+	}
+	$ic+=1
+	echo 'Joined a rally'}
+	else {
+		echo ' March time to rallier too long ,`n March Time : '$marchTime 'RallyTime : '$rallyTime }
+	$xxx = Get-Random(2)
+	start-sleep(0.75)
+	<#.\adb -s $instx shell input touchscreen tap 660 974#>
+	<#.\adb -s $instx shell input touchscreen tap 445 717#>
+	echo 'swiping before next main rlly screen'
+	.\adb -s $instx shell input swipe 415 $swiper[$xxx] 415 $swiper[1-$xxx]
+	
+	
+	start-sleep(0.75)
+	}

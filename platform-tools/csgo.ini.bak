@@ -1,0 +1,29 @@
+
+[Rainmeter]
+Update=-1
+
+[Variables]
+
+Size=0
+Wait=15
+U=[!UpdateMeasure "MeasureSlide"][!UpdateMeter "MtBackground"][!Redraw]
+Left = [!Move (#CURRENTCONFIGX#+20) (#CURRENTCONFIGY#+20) ][!Redraw]
+Right = [!Move (#CURRENTCONFIGX#-20) (#CURRENTCONFIGY#-20) ][!Redraw]
+[MeasureSlide]
+Measure=Plugin
+Plugin=ActionTimer
+Group=Sliders
+ActionList1=Repeat Up,#Wait#,15
+Up=[!SetVariable Size "(Clamp((#Size#+1),0,55))"]#U#
+ActionList2=Repeat Down,#Wait#,15
+Down=[!SetVariable Size "(Clamp((#Size#-1),0,55))"]#U#
+DynamicVariables=1
+
+ActionList3 = Left
+ActionList4 = Right
+[MtBackground]
+Meter=Shape
+LeftMouseUpAction=["firefox.exe"]
+
+Shape=Ellipse 60,60,60 | Fill Color 102, 102, 153,(45+#Size#)
+DynamicVariables=1

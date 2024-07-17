@@ -1,0 +1,38 @@
+
+[Rainmeter]
+Update=-1
+
+[Variables]
+
+Size=0
+Wait=15
+U=[!UpdateMeasure "MeasureSlide"][!UpdateMeter "MtBackground"][!Redraw]
+
+[MeasureSlide]
+Measure=Plugin
+Plugin=ActionTimer
+Group=Sliders
+ActionList1=Repeat Up,#Wait#,5
+Up=[!SetVariable Size "(Clamp((#Size#+1),0,5))"]#U#
+ActionList2=Repeat Down,#Wait#,5
+Down=[!SetVariable Size "(Clamp((#Size#-1),0,5))"]#U#
+DynamicVariables=1
+
+[MtBackground]
+Meter=IMAGE
+LeftMouseUpAction=["firefox.exe"]
+ImageName=#@#Images\csgo.png
+w=90
+h=90
+ImageRotate = (20* #Size#)
+DynamicVariables=1
+
+
+Dearest Ara
+I hope you had a fine day and had a smile on your face.
+Sleep deep and rest well , turn of alarms and wake up naturally after a contenting Sleep
+Good night
+I love you Ara , a lot
+Thank you for giving me such a beautiful day , thank you , thank you from the center of my heart
+One of the most beautiful days , thank you again
+Very much :heart::heart::heart:

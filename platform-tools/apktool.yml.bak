@@ -1,0 +1,44 @@
+version: 2.9.3
+apkFileName: com.beatgames.beatsaber.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 23
+  targetSdkVersion: 30
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 545
+  versionName: 1.28.0_4124311467
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  java/lang/invoke/CallSite.java: 8
+  java/lang/invoke/LambdaConversionException.java: 8
+  java/lang/invoke/LambdaMetafactory.java: 8
+  java/lang/invoke/MethodHandle.java: 8
+  java/lang/invoke/MethodHandles.java: 8
+  java/lang/invoke/MethodType.java: 8
+  java/lang/invoke/SerializedLambda.java: 8
+doNotCompress:
+- resources.arsc
+- png
+- assets/params_map.txt
+- assets/bin/Data/sharedassets39.resource
+- assets/bin/Data/sharedassets2.resource
+- assets/bin/Data/sharedassets38.resource
+- assets/bin/Data/sharedassets27.resource
+- assets/bin/Data/sharedassets44.resource
+- assets/bin/Data/sharedassets0.resource
+- assets/bin/Data/sharedassets41.resource
+- assets/bin/Data/Managed/Resources/Newtonsoft.Json.dll-resources.dat
+- assets/aa/settings.json
+- assets/aa/catalog.json
+- assets/aa/AddressablesLink/link.xml
+- assets/aa/Android/bts_assets_all_5db608c0dbfa9e8600a098d571a2b776.bundle
+- assets/aa/Android/pyro_assets_all_9cb6db60dffa7725355fa9cab2c1aefd.bundle

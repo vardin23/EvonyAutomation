@@ -1,0 +1,15 @@
+
+[Rainmeter]
+Update=-1
+
+[Variables]
+
+Size=0
+Wait=15
+
+[MtBackground]
+Meter=IMAGE
+LeftMouseUpAction=["firefox.exe"]
+ImageName=#@#Images\evernote.png
+MouseOverAction=[!CommandMeasure "MeasureSlide" "Execute 1" Honeycomb\csgo][!CommandMeasure "MeasureSlide" "Stop 2" Honeycomb\csgo][!Move (#CURRENTCONFIGX#+20) (#CURRENTCONFIGY#+20) Honeycomb\csgo]
+MouseLeaveAction=[!CommandMeasure "MeasureSlide" "Stop 1" Honeycomb\csgo][!CommandMeasure "MeasureSlide" "Execute 2" Honeycomb\csgo][!Move (#CURRENTCONFIGX#+20) (#CURRENTCONFIGY#+20) Honeycomb\csgo]

@@ -1,0 +1,122 @@
+.header { 
+	background: rgb(168,95,218);
+	background: linear-gradient(223deg, rgba(168,95,218,1) 0%, rgba(197,31,112,1) 49%, rgba(252,136,69,1) 100%); 
+	mix-blend-mode:Multiply;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+	padding:0.2vh;
+	border-bottom-left-radius: 20px;
+}
+
+
+.header li {
+    list-style: none;
+    display: inline-block;
+	margin-right:2vw;
+}
+
+.header a {
+    text-decoration: none;
+    color: #555;
+    transition: all 0.3s ease 0s;
+}
+
+
+.header a:hover {
+    color: #b2dfdb;
+}
+
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding:0.2vh;
+  margin-top:0.4vh;
+  border-top-right-radius: 20px;
+}
+.wrapper {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.header li {
+	mix-blend-mode: Multiply;
+	font-size:2rem;
+	font-weight:700;
+	font-family:segoe ui;
+}
+
+* body{
+	background:url("4842.jpg");
+	font-family:Cursive;
+}
+.tabs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tabs li {
+  border: 2px solid #490A3D;
+  border-radius:5px;
+  background-color: #BD1550;
+  color: #fff;
+  flex: 1 1 200px;
+}
+
+.tabs h2 {
+  background-color: #490A3D;
+  margin: 0;
+  padding: 10px;
+}
+
+.tabs p {
+  padding: 10px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -10px;
+}
+
+.flex li {
+  flex: 1 1 200px;
+  margin: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  /*grid-template-columns: repeat(auto-fill, minmax(200px 1fr));*/
+  grid-gap: 20px;
+}
+
+
+
+.typewrite{
+	max-width:75vw;
+  font-size : 3.8vw;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right:0.2em solid grey; /* The typwriter cursor */
+  text-align:center;
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  animation: 
+    typing 3.5s steps(40, end),
+    caret .5s infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 ;}
+  to { width: 74vw ;}
+}
+
+/* The typewriter cursor effect */
+@keyframes caret {
+  from, to { border-color: transparent }
+  50% { border-color: grey; }
+}
