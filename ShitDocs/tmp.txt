@@ -1,0 +1,5591 @@
+ECHO is off.
+Loop1 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop2 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop3 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop4 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop5 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop6 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop7 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop8 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop9 
+Item is - Patrol.Rewards: Mountain=Grail X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Mountain=GrailX1
+Loop10 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop11 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.
+ and should buy is:False
+::Patrol.Rewards:GoldenCrystalxX1
+Loop12 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop13 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop14 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop15 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop16 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop17 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop18 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop19 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop20 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop21 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop22 
+Item is - PatrokRewards: Medicine Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokRewards:MedicineGrewnX1
+Loop23 
+Item is - Patrol Rewards: Agile Crown X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:AgileCrownX1
+Loop24 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop25 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop26 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop27 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop28 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop29 
+Item is - Patrol Rewards: Fire GraikX 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:FireGraikX1
+Loop30 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop31 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop32 
+Item is - Patrol Rewards: Earth Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:EarthCrystalX1
+Loop33 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop34 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop35 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop36 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop37 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop38 
+Item is - Patrol Rewards: Agile Crown X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrolRewards:AgileCrownX1
+Loop39 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop40 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop41 
+Item is - Patrol Rewards: Wind Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:WindStaffX1
+Loop42 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop43 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop44 
+Item is - Patroh Rewards: 100K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:100KFood-BoxX1
+Loop45 
+Item is - Patrol Rewards: Wind Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:WindStaffX1
+Loop46 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop47 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop48 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop49 
+Item is - Patrol.Rewards: Mountain=Grail X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Mountain=GrailX1
+Loop50 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop51 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.3s
+ and should buy is:True
+::Patrol.Rewards:IntellectGrownX1
+Loop52 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop53 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop54 
+Item is - Patrol Rewards: Ares Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:AresStaffX1
+Loop55 
+Item is - Patrol Rewards: Agile Crown X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrolRewards:AgileCrownX1
+Loop56 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop57 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop58 
+Item is - Patrol Rewards: Mountain Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:MountainDecorationX1
+Loop59 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop60 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop61 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop62 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop63 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop64 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop65 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop66 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop67 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop68 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop69 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop70 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop71 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop72 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.3%
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop73 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop74 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop75 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.3s
+ and should buy is:True
+::Patrol.Rewards:GoldenCrystalxX1
+Loop76 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop77 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop78 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop79 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:IntellectGrownX1
+Loop80 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop81 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop82 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop83 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop84 
+Item is - Patrol Rewards: 24 Hour Speed Up X 1 and level is - , 2
+ and should buy is:False
+::PatrolRewards:24HourSpeedUpX1
+Loop85 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop86 
+Item is - PatrokhRewards: Strenath Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokhRewards:StrenathGrewnX1
+Loop87 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop88 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop89 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop90 
+Item is - Patrol. Rewards: Mountain-Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::Patrol.Rewards:Mountain-StaffX1
+Loop91 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrokRewards:ThunderGrystalX1
+Loop92 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop93 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrokRewards:ThunderGrystalX1
+Loop94 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop95 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop96 
+Item is - Patrol Rewards: 24 Hour Speed Up X 1 and level is - , 2
+ and should buy is:False
+::PatrolRewards:24HourSpeedUpX1
+Loop97 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop98 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop99 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop100 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop101 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop102 
+Item is - Patroh Rewards: Fire Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrohRewards:FireDecorationX1
+Loop103 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop104 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop105 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop106 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop107 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop108 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop109 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop110 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop111 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop112 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop113 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop114 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop115 
+Item is - Patrol Rewards: 24 Hour Speed Up X 1 and level is - , 2
+ and should buy is:False
+::PatrolRewards:24HourSpeedUpX1
+Loop116 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrelRewards:Thunder-GfailX1
+Loop117 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop118 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop119 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop120 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop121 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop122 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrelRewards:Thunder-GfailX1
+Loop123 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop124 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop125 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop126 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop127 
+Item is - Patrol Rewards: Wind Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WindCrystalX1
+Loop128 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop129 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop130 
+Item is - Patrol Rewards: Fire GraikX 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:FireGraikX1
+Loop131 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop132 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop133 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop134 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop135 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop136 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop137 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop138 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop139 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop140 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop141 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop142 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop143 
+Item is - Patroh Rewards: Fire Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrohRewards:FireDecorationX1
+Loop144 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop145 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop146 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop147 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop148 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop149 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop150 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop151 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop152 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop153 
+Item is - Patrol. Rewards: Mountain-Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::Patrol.Rewards:Mountain-StaffX1
+Loop154 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.3%
+ and should buy is:True
+::PatrolRewards:ThunderDecorationX1
+Loop155 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop156 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop157 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop158 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop159 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop160 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop161 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop162 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop163 
+Item is - PatrokRewards: 100K Stone-Box X 1 and level is - PR
+ and should buy is:False
+::PatrokRewards:100KStone-BoxX1
+Loop164 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop165 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop166 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop167 
+Item is - PatrolRewards: Wind Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:WindDecorationX1
+Loop168 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop169 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop170 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop171 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop172 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop173 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop174 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.
+ and should buy is:False
+::Patrol.Rewards:GoldenCrystalxX1
+Loop175 
+Item is - Patrol. Rewards: 100K LumberBox X 1 and level is -  and should buy is:False
+::Patrol.Rewards:100KLumberBoxX1
+Loop176 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop177 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop178 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrelRewards:Thunder-GfailX1
+Loop179 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop180 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop181 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop182 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop183 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop184 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop185 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop186 
+Item is - PatrokhRewards: Strenath Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokhRewards:StrenathGrewnX1
+Loop187 
+Item is - Patrol Rewards: Wind Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WindCrystalX1
+Loop188 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop189 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop190 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop191 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop192 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop193 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop194 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop195 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop196 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrokRewards:ThunderGrystalX1
+Loop197 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop198 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop199 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop200 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop201 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop202 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop203 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop204 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop205 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop206 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop207 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop208 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop209 
+Item is - Patrol Rewards: Fire GraikX 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:FireGraikX1
+Loop210 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop211 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop212 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop213 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:IntellectGrownX1
+Loop214 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop215 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop216 
+Item is - PatrokRewards: 5K General4=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:5KGeneral4=XPX1
+Loop217 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop218 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop219 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop220 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop221 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop222 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop223 
+Item is - Patrel Rewards: Thunder-Staff.X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrelRewards:Thunder-Staff.X1
+Loop224 
+Item is - Patroh Rewards: 100K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:100KFood-BoxX1
+Loop225 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop226 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop227 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop228 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop229 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop230 
+Item is - Patrol Rewards: Wind Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:WindStaffX1
+Loop231 
+Item is - Patrol Rewards: Wood Crystal-.X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WoodCrystal-.X1
+Loop232 
+Item is - Patrol Rewards: Earth Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:EarthCrystalX1
+Loop233 
+Item is - Patrel. Rewards: 100K Ore Box X 1 and level is - >
+ and should buy is:False
+::Patrel.Rewards:100KOreBoxX1
+Loop234 
+Item is - Patrol Rewards: 24 Hour Speed Up X 1 and level is - , 2
+ and should buy is:False
+::PatrolRewards:24HourSpeedUpX1
+Loop235 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop236 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop237 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop238 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop239 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop240 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop241 
+Item is - Patrol Rewards: 24 Hour Speed Up X 1 and level is - , 2
+ and should buy is:False
+::PatrolRewards:24HourSpeedUpX1
+Loop242 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop243 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop244 
+Item is - Patrol Rewards: Mountain Decoration X 1 and level is - Lv.3%
+ and should buy is:False
+::PatrolRewards:MountainDecorationX1
+Loop245 
+Item is - Patrol Rewards: Ares Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:AresStaffX1
+Loop246 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop247 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop248 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop249 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop250 
+Item is - Patrel. Rewards: 100K Ore Box X 1 and level is - >
+ and should buy is:False
+::Patrel.Rewards:100KOreBoxX1
+Loop251 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop252 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop253 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop254 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop255 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop256 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop257 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop258 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop259 
+Item is - PatrolRewards: Wind Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:WindDecorationX1
+Loop260 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop261 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop262 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop263 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop264 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop265 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop266 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop267 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop268 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop269 
+Item is - Patrol Rewards: Wind Crystal X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WindCrystalX1
+Loop270 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop271 
+Item is - Patrel Rewards: Thunder-Staff.X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrelRewards:Thunder-Staff.X1
+Loop272 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop273 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop274 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop275 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.
+ and should buy is:False
+::Patrol.Rewards:GoldenCrystalxX1
+Loop276 
+Item is - Patrol. Rewards: Mountain-Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::Patrol.Rewards:Mountain-StaffX1
+Loop277 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop278 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop279 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop280 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop281 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop282 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop283 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop284 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop285 
+Item is - Patrol Rewards: Wind Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WindCrystalX1
+Loop286 
+Item is - PatrolRewards: Wind Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:WindDecorationX1
+Loop287 
+Item is - Patroh Rewards: 100K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:100KFood-BoxX1
+Loop288 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop289 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop290 
+Item is - Patrol Rewards: Wood Crystal-.X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WoodCrystal-.X1
+Loop291 
+Item is - Patrol Rewards: Mountain Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:MountainDecorationX1
+Loop292 
+Item is - PatrokRewards: 100K Stone-Box X 1 and level is - PR
+ and should buy is:False
+::PatrokRewards:100KStone-BoxX1
+Loop293 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop294 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrokRewards:ThunderGrystalX1
+Loop295 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrelRewards:Thunder-GfailX1
+Loop296 
+Item is - Patrol. Rewards: Mountain-Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::Patrol.Rewards:Mountain-StaffX1
+Loop297 
+Item is - Patroh Rewards: Fire Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrohRewards:FireDecorationX1
+Loop298 
+Item is - Patrol Rewards: Wind Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:WindStaffX1
+Loop299 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop300 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop301 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop302 
+Item is - Patrol Rewards: Earth Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:EarthCrystalX1
+Loop303 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop304 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop305 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop306 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop307 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop308 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop309 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop310 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop311 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop312 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop313 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop314 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop315 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop316 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop317 
+Item is - PatrokRewards: Medicine Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokRewards:MedicineGrewnX1
+Loop318 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop319 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop320 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop321 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop322 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop323 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop324 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop325 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop326 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop327 
+Item is - Patrol Rewards: Wind Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:WindStaffX1
+Loop328 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop329 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.3%
+ and should buy is:True
+::PatrolRewards:ThunderDecorationX1
+Loop330 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop331 
+Item is - Patrol Rewards: Fire GraikX 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:FireGraikX1
+Loop332 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop333 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop334 
+Item is - PatrokRewards: 500K Stone-Box X 1 and level is - ws
+ and should buy is:False
+::PatrokRewards:500KStone-BoxX1
+Loop335 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop336 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop337 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrokRewards:ThunderGrystalX1
+Loop338 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop339 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop340 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop341 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop342 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop343 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop344 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop345 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop346 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop347 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop348 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop349 
+Item is - Patrol. Rewards: 100K LumberBox X 1 and level is -  and should buy is:False
+::Patrol.Rewards:100KLumberBoxX1
+Loop350 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop351 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop352 
+Item is - Patrol Rewards: Ares Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:AresStaffX1
+Loop353 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop354 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop355 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop356 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop357 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop358 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop359 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop360 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop361 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop362 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop363 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop364 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop365 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop366 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop367 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop368 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop369 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop370 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop371 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop372 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop373 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop374 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop375 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop376 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop377 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop378 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop379 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop380 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop381 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrokRewards:ThunderGrystalX1
+Loop382 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop383 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop384 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop385 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop386 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop387 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop388 
+Item is - Patrol Rewards: Ares Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:AresStaffX1
+Loop389 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.
+ and should buy is:False
+::Patrol.Rewards:GoldenCrystalxX1
+Loop390 
+Item is - Patrol Rewards: Agile Crown X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:AgileCrownX1
+Loop391 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop392 
+Item is - Patrol. Rewards: 100K LumberBox X 1 and level is -  and should buy is:False
+::Patrol.Rewards:100KLumberBoxX1
+Loop393 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrokRewards:ThunderGrystalX1
+Loop394 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop395 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop396 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop397 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop398 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop399 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop400 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:IntellectGrownX1
+Loop401 
+Item is - PatrokRewards: Medicine Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokRewards:MedicineGrewnX1
+Loop402 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.3%
+ and should buy is:True
+::PatrolRewards:ThunderDecorationX1
+Loop403 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop404 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop405 
+Item is - PatrokRewards: 500K Stone-Box X 1 and level is - ws
+ and should buy is:False
+::PatrokRewards:500KStone-BoxX1
+Loop406 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop407 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop408 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop409 
+Item is - Patrol Rewards: Agile Crown X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:AgileCrownX1
+Loop410 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop411 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop412 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop413 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop414 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop415 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop416 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop417 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop418 
+Item is - Patrol.Rewards: Mountain=Grail X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Mountain=GrailX1
+Loop419 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrelRewards:Thunder-GfailX1
+Loop420 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.
+ and should buy is:False
+::Patrol.Rewards:GoldenCrystalxX1
+Loop421 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop422 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrelRewards:Thunder-GfailX1
+Loop423 
+Item is - Patrol.Rewards: Mountain=Grail X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Mountain=GrailX1
+Loop424 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop425 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop426 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop427 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop428 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop429 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop430 
+Item is - Patrol Rewards: Fire GraikX 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:FireGraikX1
+Loop431 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop432 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop433 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop434 
+Item is - Patrol. Rewards: 100K LumberBox X 1 and level is -  and should buy is:False
+::Patrol.Rewards:100KLumberBoxX1
+Loop435 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop436 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop437 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop438 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop439 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop440 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop441 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop442 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop443 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrokRewards:ThunderGrystalX1
+Loop444 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop445 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.3s
+ and should buy is:True
+::Patrol.Rewards:IntellectGrownX1
+Loop446 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop447 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop448 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop449 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop450 
+Item is - Patrol. Rewards: 100K LumberBox X 1 and level is -  and should buy is:False
+::Patrol.Rewards:100KLumberBoxX1
+Loop451 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop452 
+Item is - PatrokRewards: Medicine Grewn X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrokRewards:MedicineGrewnX1
+Loop453 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop454 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop455 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop456 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop457 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop458 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop459 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop460 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop461 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop462 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop463 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop464 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop465 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop466 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop467 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop468 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop469 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop470 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop471 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop472 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop473 
+Item is - Patrol Rewards: Fire GraikX 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:FireGraikX1
+Loop474 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop475 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop476 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop477 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop478 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop479 
+Item is - Patrol. Rewards: Mountain-Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::Patrol.Rewards:Mountain-StaffX1
+Loop480 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop481 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop482 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop483 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop484 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop485 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop486 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop487 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop488 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop489 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop490 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:IntellectGrownX1
+Loop491 
+Item is - Patroh Rewards: 100K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:100KFood-BoxX1
+Loop492 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop493 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop494 
+Item is - Patrel Rewards: Thunder-Staff.X 1 and level is - Lv.3*
+ and should buy is:True
+::PatrelRewards:Thunder-Staff.X1
+Loop495 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop496 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop497 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop498 
+Item is - Patrol.Rewards: Refining Stene X 1 and level is -  and should buy is:False
+::Patrol.Rewards:RefiningSteneX1
+Loop499 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop500 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop501 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop502 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop503 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.
+ and should buy is:False
+::Patrol.Rewards:GoldenCrystalxX1
+Loop504 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop505 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop506 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop507 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop508 
+Item is - Patrol.Rewards: Mountain=Grail X 1 and level is - Lv. 1s
+ and should buy is:False
+::Patrol.Rewards:Mountain=GrailX1
+Loop509 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop510 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop511 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrelRewards:Thunder-GfailX1
+Loop512 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop513 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop514 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop515 
+Item is - PatrolRewards: Wind Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:WindDecorationX1
+Loop516 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop517 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop518 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:IntellectGrownX1
+Loop519 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop520 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop521 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop522 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop523 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrokRewards:ThunderGrystalX1
+Loop524 
+Item is - Patrol.Rewards: Refining Stene X 1 and level is -  and should buy is:False
+::Patrol.Rewards:RefiningSteneX1
+Loop525 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop526 
+Item is - Patrol. Rewards: Mountain-Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::Patrol.Rewards:Mountain-StaffX1
+Loop527 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop528 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop529 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop530 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop531 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:IntellectGrownX1
+Loop532 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.3%
+ and should buy is:True
+::PatrolRewards:ThunderDecorationX1
+Loop533 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop534 
+Item is - PatrokhRewards: Strenath Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokhRewards:StrenathGrewnX1
+Loop535 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop536 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop537 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop538 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop539 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop540 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop541 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop542 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop543 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop544 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop545 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop546 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop547 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop548 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop549 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop550 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop551 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop552 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop553 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop554 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop555 
+Item is - Patrol.Rewards: Mountain=Grail X 1 and level is - Lv. 1s
+ and should buy is:False
+::Patrol.Rewards:Mountain=GrailX1
+Loop556 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop557 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrelRewards:Thunder-GfailX1
+Loop558 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop559 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop560 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop561 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop562 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.3%
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop563 
+Item is - Patrol Rewards: Wood Crystal-.X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WoodCrystal-.X1
+Loop564 
+Item is - Patroh Rewards: 100K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:100KFood-BoxX1
+Loop565 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop566 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop567 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop568 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop569 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop570 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop571 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop572 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop573 
+Item is - PatrokRewards: 5K General4=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:5KGeneral4=XPX1
+Loop574 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop575 
+Item is - Patrol Rewards: Earth Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:EarthCrystalX1
+Loop576 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop577 
+Item is - Patrol Rewards: Wood Crystal-.X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WoodCrystal-.X1
+Loop578 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop579 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop580 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop581 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop582 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop583 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop584 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.
+ and should buy is:False
+::Patrol.Rewards:GoldenCrystalxX1
+Loop585 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrelRewards:Thunder-GfailX1
+Loop586 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop587 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop588 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop589 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop590 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop591 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.3%
+ and should buy is:True
+::PatrolRewards:ThunderDecorationX1
+Loop592 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop593 
+Item is - PatrokRewards: Medicine Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokRewards:MedicineGrewnX1
+Loop594 
+Item is - Patroh Rewards: 500K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:500KFood-BoxX1
+Loop595 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop596 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop597 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop598 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop599 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop600 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop601 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop602 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrelRewards:Thunder-GfailX1
+Loop603 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop604 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop605 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop606 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop607 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop608 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop609 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop610 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop611 
+Item is - PatrokRewards: Medicine Grewn X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrokRewards:MedicineGrewnX1
+Loop612 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop613 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop614 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop615 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop616 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop617 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop618 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop619 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop620 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop621 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop622 
+Item is - Patrol Rewards: Wind Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WindCrystalX1
+Loop623 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop624 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop625 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop626 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop627 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop628 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop629 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop630 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrelRewards:Thunder-GfailX1
+Loop631 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop632 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop633 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop634 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop635 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop636 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop637 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop638 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop639 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop640 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop641 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop642 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop643 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop644 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop645 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop646 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop647 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.3s
+ and should buy is:True
+::Patrol.Rewards:GoldenCrystalxX1
+Loop648 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop649 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop650 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop651 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop652 
+Item is - PatrokhRewards: Strenath Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokhRewards:StrenathGrewnX1
+Loop653 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop654 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop655 
+Item is - PatrokhRewards: Strenath Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokhRewards:StrenathGrewnX1
+Loop656 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop657 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop658 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop659 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop660 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop661 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop662 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop663 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop664 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop665 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop666 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop667 
+Item is - Patrol.Rewards: Golden CrystalxX 1 and level is - Lv.
+ and should buy is:False
+::Patrol.Rewards:GoldenCrystalxX1
+Loop668 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop669 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop670 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop671 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop672 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop673 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop674 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop675 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop676 
+Item is - Patroh Rewards: 100K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:100KFood-BoxX1
+Loop677 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop678 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop679 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop680 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop681 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop682 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop683 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop684 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop685 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop686 
+Item is - Patroh Rewards: Fire Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrohRewards:FireDecorationX1
+Loop687 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop688 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop689 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop690 
+Item is - Patrol Rewards: Wind Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WindCrystalX1
+Loop691 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrokRewards:ThunderGrystalX1
+Loop692 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop693 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop694 
+Item is - Patrol Rewards: Ares Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:AresStaffX1
+Loop695 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop696 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop697 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop698 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop699 
+Item is - Patrol. Rewards: Mountain-Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::Patrol.Rewards:Mountain-StaffX1
+Loop700 
+Item is - Patrol Rewards: Mountain Decoration X 1 and level is - Lv.3%
+ and should buy is:False
+::PatrolRewards:MountainDecorationX1
+Loop701 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop702 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop703 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop704 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop705 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop706 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop707 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop708 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop709 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop710 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop711 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop712 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop713 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop714 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop715 
+Item is - Patrol.Rewards: Mountain=Grail X 1 and level is - Lv. 1s
+ and should buy is:False
+::Patrol.Rewards:Mountain=GrailX1
+Loop716 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop717 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrelRewards:Thunder-GfailX1
+Loop718 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop719 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop720 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:IntellectGrownX1
+Loop721 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop722 
+Item is - Patrol Rewards: Wind Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WindCrystalX1
+Loop723 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop724 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.3%
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop725 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop726 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop727 
+Item is - Patrol Rewards: Mountain Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:MountainDecorationX1
+Loop728 
+Item is - PatrokRewards: Medicine Grewn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrokRewards:MedicineGrewnX1
+Loop729 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop730 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop731 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop732 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrelRewards:Thunder-GfailX1
+Loop733 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop734 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop735 
+Item is - Patrol Rewards: 24 Hour Speed Up X 1 and level is - , 2
+ and should buy is:False
+::PatrolRewards:24HourSpeedUpX1
+Loop736 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop737 
+Item is - Patroh Rewards: 100K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:100KFood-BoxX1
+Loop738 
+Item is - Patroh Rewards: Fire Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrohRewards:FireDecorationX1
+Loop739 
+Item is - Patrol Rewards: Justice Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:JusticeHornX1
+Loop740 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop741 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop742 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop743 
+Item is - PatrokRewards: 100K Stone-Box X 1 and level is - PR
+ and should buy is:False
+::PatrokRewards:100KStone-BoxX1
+Loop744 
+Item is - Patrol.Rewards: Intellect Grown X 1 and level is - Lv.3s
+ and should buy is:True
+::Patrol.Rewards:IntellectGrownX1
+Loop745 
+Item is - Patrol Rewards: ‘Loyalty.Horn X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:‘Loyalty.HornX1
+Loop746 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop747 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop748 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop749 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop750 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop751 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop752 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop753 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop754 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop755 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop756 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop757 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop758 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop759 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop760 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop761 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop762 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop763 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop764 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop765 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop766 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop767 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop768 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop769 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop770 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop771 
+Item is - Patrol.Rewards: Refining Stene X 1 and level is -  and should buy is:False
+::Patrol.Rewards:RefiningSteneX1
+Loop772 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrelRewards:Thunder-GfailX1
+Loop773 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop774 
+Item is - Patrel. Rewards: 100K Ore Box X 1 and level is - >
+ and should buy is:False
+::Patrel.Rewards:100KOreBoxX1
+Loop775 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop776 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop777 
+Item is - Patrol Rewards: Agile Crown X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:AgileCrownX1
+Loop778 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop779 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop780 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop781 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop782 
+Item is - Patrol Rewards: Earth Crystal X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:EarthCrystalX1
+Loop783 
+Item is - Patroh Rewards: Fire Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrohRewards:FireDecorationX1
+Loop784 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop785 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop786 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop787 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop788 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop789 
+Item is - Patrel Rewards: Thunder-Staff.X 1 and level is - Lv.3*
+ and should buy is:True
+::PatrelRewards:Thunder-Staff.X1
+Loop790 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop791 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop792 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop793 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop794 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop795 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop796 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop797 
+Item is - Patrol. Rewards: 100K LumberBox X 1 and level is -  and should buy is:False
+::Patrol.Rewards:100KLumberBoxX1
+Loop798 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop799 
+Item is - Patrel Rewards: Thunder-Staff.X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrelRewards:Thunder-Staff.X1
+Loop800 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop801 
+Item is - Patroh Rewards: Fire Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrohRewards:FireDecorationX1
+Loop802 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop803 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop804 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop805 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop806 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop807 
+Item is - Patrol Rewards: Ares Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:AresStaffX1
+Loop808 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop809 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop810 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop811 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop812 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop813 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop814 
+Item is - Patrel Rewards: Thunder-Gfail X 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrelRewards:Thunder-GfailX1
+Loop815 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop816 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrokRewards:ThunderGrystalX1
+Loop817 
+Item is - Patrol Rewards: Agile Crown X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:AgileCrownX1
+Loop818 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop819 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop820 
+Item is - Patrol Rewards: Wood Crystal-.X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WoodCrystal-.X1
+Loop821 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop822 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop823 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop824 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop825 
+Item is - Patrol Rewards: Wood Crystal-.X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:WoodCrystal-.X1
+Loop826 
+Item is - PatrolRewards: Wind Decoration X 1 and level is - Lv.3%
+ and should buy is:False
+::PatrolRewards:WindDecorationX1
+Loop827 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop828 
+Item is - Patrol Rewards: Earth Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:EarthCrystalX1
+Loop829 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop830 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop831 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop832 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop833 
+Item is - Patrel Rewards: Water Crystal.X 1 and level is - Lv.
+ and should buy is:False
+::PatrelRewards:WaterCrystal.X1
+Loop834 
+Item is - Patrol Rewards: Agile Crown X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrolRewards:AgileCrownX1
+Loop835 
+Item is - PatrokRewards: 5K General4=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:5KGeneral4=XPX1
+Loop836 
+Item is - Patrol. Rewards: Mountain-Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::Patrol.Rewards:Mountain-StaffX1
+Loop837 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop838 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop839 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop840 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop841 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop842 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop843 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop844 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop845 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop846 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop847 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop848 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop849 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop850 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop851 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop852 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop853 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop854 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop855 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop856 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop857 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop858 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop859 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop860 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop861 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop862 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop863 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop864 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop865 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop866 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop867 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop868 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop869 
+Item is - PatrokRewards: 100K Stone-Box X 1 and level is - PR
+ and should buy is:False
+::PatrokRewards:100KStone-BoxX1
+Loop870 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop871 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop872 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop873 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop874 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop875 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop876 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop877 
+Item is - Patrol Rewards: Fire Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:FireCrystalX1
+Loop878 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop879 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop880 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop881 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop882 
+Item is - Patrel Rewards: Thunder-Staff.X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrelRewards:Thunder-Staff.X1
+Loop883 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop884 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop885 
+Item is - Patrol Rewards: Wind Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:WindStaffX1
+Loop886 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop887 
+Item is - Patrol Rewards: Earth Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:EarthCrystalX1
+Loop888 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop889 
+Item is - PatrolRewards: 50K LumberBox X 1 and level is -  and should buy is:False
+::PatrolRewards:50KLumberBoxX1
+Loop890 
+Item is - Patrol Rewards: Fire StaffX 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:FireStaffX1
+Loop891 
+Item is - Patrol.Rewards: Refining Stene X 1 and level is -  and should buy is:False
+::Patrol.Rewards:RefiningSteneX1
+Loop892 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop893 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop894 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop895 
+Item is - Patroh Rewards: 100K Food-Box X 1 and level is -  and should buy is:False
+::PatrohRewards:100KFood-BoxX1
+Loop896 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop897 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop898 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop899 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop900 
+Item is - Patrol Rewards: 3 Hour Speed Up X 1 and level is - = 2
+ and should buy is:False
+::PatrolRewards:3HourSpeedUpX1
+Loop901 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop902 
+Item is - Patrol Rewards: ‘Light Crystal X 1 and level is - Lv.
+ and should buy is:False
+::PatrolRewards:‘LightCrystalX1
+Loop903 
+Item is - Patrol Rewards: Mountain Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:MountainDecorationX1
+Loop904 
+Item is - Patrel Rewards: Thunder-Staff.X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrelRewards:Thunder-Staff.X1
+Loop905 
+Item is - Patrol Rewards: 24 Hour Speed Up X 1 and level is - , 2
+ and should buy is:False
+::PatrolRewards:24HourSpeedUpX1
+Loop906 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop907 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop908 
+Item is - Patrel Rewards: Martial Crown-X 1 and level is - Lv.d.
+ and should buy is:False
+::PatrelRewards:MartialCrown-X1
+Loop909 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop910 
+Item is - Patrol.Rewards: Refining Stene X 1 and level is -  and should buy is:False
+::Patrol.Rewards:RefiningSteneX1
+Loop911 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop912 
+Item is - Patrel. Rewards: 100K Ore Box X 1 and level is - >
+ and should buy is:False
+::Patrel.Rewards:100KOreBoxX1
+Loop913 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop914 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop915 
+Item is - Patrol Rewards: War Hore X-1 and level is - Lv.d.
+ and should buy is:False
+::PatrolRewards:WarHoreX-1
+Loop916 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.3%
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop917 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop918 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop919 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop920 
+Item is - Patrol Rewards: 500 GenerakEXP X 1 and level is -  and should buy is:False
+::PatrolRewards:500GenerakEXPX1
+Loop921 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop922 
+Item is - Patrol Rewards;.Medium Resourees Ghest X and level is - » =
+ and should buy is:False
+::PatrolRewards;.MediumResoureesGhestX
+Loop923 
+Item is - Patrol.Rewards: Durable Grown X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:DurableGrownX1
+Loop924 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop925 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop926 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop927 
+Item is - Patrol Rewards: Ares Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:AresStaffX1
+Loop928 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop929 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop930 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop931 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop932 
+Item is - Patrol Rewards: Ares Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:AresGrailX12
+Loop933 
+Item is - Patrol.Rewards: Mountain=Grail X 1 and level is - Lv.3s
+ and should buy is:False
+::Patrol.Rewards:Mountain=GrailX1
+Loop934 
+Item is - Patrol Rewards: Ares Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:AresStaffX1
+Loop935 
+Item is - Patrol Rewards: Wood Crystal-.X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrolRewards:WoodCrystal-.X1
+Loop936 
+Item is - Patrol. Rewards: Courage-Hern X 1 and level is - Lv.d.
+ and should buy is:False
+::Patrol.Rewards:Courage-HernX1
+Loop937 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop938 
+Item is - Patrol Rewards: Wind Staff X 1 and level is - Lv.2 ss
+ and should buy is:False
+::PatrolRewards:WindStaffX1
+Loop939 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop940 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop941 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop942 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop943 
+Item is - PatrokRewards: 1K General4+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:1KGeneral4+=XPX1
+Loop944 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop945 
+Item is - Patrol.Rewards: 50K Stone Box -X 1 and level is - PR
+ and should buy is:False
+::Patrol.Rewards:50KStoneBox-X1
+Loop946 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop947 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop948 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop949 
+Item is - Patrol.Rewards: 10K Stone Box-X 1 and level is - . A
+ and should buy is:False
+::Patrol.Rewards:10KStoneBox-X1
+Loop950 
+Item is - Patrol Rewards: Senior Resources Ghest X and level is - _ =
+ and should buy is:False
+::PatrolRewards:SeniorResourcesGhestX
+Loop951 
+Item is - Patrol Rewards: Fire GraikX 1 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:FireGraikX1
+Loop952 
+Item is - PatrokRewards: Thunder Grystal X 1 and level is - Lv.3s
+ and should buy is:True
+::PatrokRewards:ThunderGrystalX1
+Loop953 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop954 
+Item is - Patrol Rewards: Wind Crystal X 1 and level is - Lv.3s
+ and should buy is:False
+::PatrolRewards:WindCrystalX1
+Loop955 
+Item is - Patrol Rewards: Wind Staff X 1 and level is - Lv.3*
+ and should buy is:False
+::PatrolRewards:WindStaffX1
+Loop956 
+Item is - Patrol. Rewards: 50K Food Box X 1 and level is -  and should buy is:False
+::Patrol.Rewards:50KFoodBoxX1
+Loop957 
+Item is - PatrokRewards: Ares Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrokRewards:AresDecorationX1
+Loop958 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop959 
+Item is - Patrol Rewards: Thunder Decoration X 1 and level is - Lv.d,
+ and should buy is:False
+::PatrolRewards:ThunderDecorationX1
+Loop960 
+Item is - Patrol. Rewards: 100K LumberBox X 1 and level is -  and should buy is:False
+::Patrol.Rewards:100KLumberBoxX1
+Loop961 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop962 
+Item is - Patrol Rewards: Wind Grail X12 and level is - Lv. 1s
+ and should buy is:False
+::PatrolRewards:WindGrailX12
+Loop963 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop964 
+Item is - Patrel. Rewards: 10K Food Box X 1 and level is -  and should buy is:False
+::Patrel.Rewards:10KFoodBoxX1
+Loop965 
+Item is - Patrol Rewards: 50K Ore-Bex X 1 and level is - >
+ and should buy is:False
+::PatrolRewards:50KOre-BexX1
+Loop966 
+Item is - Patrol Rewards: 30 Minute Speed Up X 1 and level is -  and should buy is:False
+::PatrolRewards:30MinuteSpeedUpX1
+Loop967 
+Item is - Patrol Rewards: 5K Gold 1 and level is -  and should buy is:False
+::PatrolRewards:5KGold1
+Loop968 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop969 
+Item is - Patrol Rewards: 10K Ore-Bex X 1 and level is - -
+ and should buy is:False
+::PatrolRewards:10KOre-BexX1
+Loop970 
+Item is - PatrolRewards: 10K LumberBox X 1 and level is - “SS
+ and should buy is:False
+::PatrolRewards:10KLumberBoxX1
+Loop971 
+Item is - PatrokRewards: 2K General+=XP X 1 and level is -  and should buy is:False
+::PatrokRewards:2KGeneral+=XPX1
+Loop972 
+Item is -  and level is - — «a
+ and should buy is:False
+::Loop973 
+Loop974 
+Loop975 
+Loop976 
+Loop977 
+Loop978 
+Loop979 
+Loop980 
+Loop981 
+Loop982 
+Loop983 
+Loop984 
+Loop985 
+Loop986 
+Loop987 
+Loop988 
+Loop989 
+Loop990 
+Loop991 
+Loop992 
+Loop993 
+Loop994 
+Loop995 
+Loop996 
+Loop997 
+Loop998 
+Loop999 
+Loop1000 
+Loop1001 
+Loop1002 
+Loop1003 
+Loop1004 
+Loop1005 
+Loop1006 
+Loop1007 
+Loop1008 
+Loop1009 
+Loop1010 
+Loop1011 
+Loop1012 
+Loop1013 
+Loop1014 
+Loop1015 
+Loop1016 
+Loop1017 
+Loop1018 
+Loop1019 
+Loop1020 
+Loop1021 
+Loop1022 
+Loop1023 
+Loop1024 
+Loop1025 
+Loop1026 
+Loop1027 
+Loop1028 
+Loop1029 
+Loop1030 
+Loop1031 
+Loop1032 
+Loop1033 
+Loop1034 
+Loop1035 
+Loop1036 
+Loop1037 
+Loop1038 
+Loop1039 
+Loop1040 
+Loop1041 
+Loop1042 
+Loop1043 
+Loop1044 
+Loop1045 
+Loop1046 
+Loop1047 
+Loop1048 
+Loop1049 
+Loop1050 
+Loop1051 
+Loop1052 
+Loop1053 
+Loop1054 
+Loop1055 
+Loop1056 
+Loop1057 
+Loop1058 
+Loop1059 
+Loop1060 
+Loop1061 
+Loop1062 
+Loop1063 
+Loop1064 
+Loop1065 
+Loop1066 
+Loop1067 
+Loop1068 
+Loop1069 
+Loop1070 
+Loop1071 
+Loop1072 
+Loop1073 
+Loop1074 
+Loop1075 
+Loop1076 
+Loop1077 
+Loop1078 
+Loop1079 
+Loop1080 
+Loop1081 
+Loop1082 
+Loop1083 
+Loop1084 
+Loop1085 
+Loop1086 
+Loop1087 
+Loop1088 
+Loop1089 
+Loop1090 
+Loop1091 
+Loop1092 
+Loop1093 
+Loop1094 
+Loop1095 
+Loop1096 
+Loop1097 
+Loop1098 
+Loop1099 
+Loop1100 
+Loop1101 
+Loop1102 
+Loop1103 
+Loop1104 
+Loop1105 
+Loop1106 
+Loop1107 
+Loop1108 
+Loop1109 
+Loop1110 
+Loop1111 
+Loop1112 
+Loop1113 
+Loop1114 
+Loop1115 
+Loop1116 
+Loop1117 
+Loop1118 
+Loop1119 
+Loop1120 
+Loop1121 
+Loop1122 
+Loop1123 
+Loop1124 
+Loop1125 
+Loop1126 
+Loop1127 
+Loop1128 
+Loop1129 
+Loop1130 
+Loop1131 
+Loop1132 
+Loop1133 
+Loop1134 
+Loop1135 
+Loop1136 
+Loop1137 
+Loop1138 
+Loop1139 
+Loop1140 
+Loop1141 
+Loop1142 
+Loop1143 
+Loop1144 
+Loop1145 
+Loop1146 
+Loop1147 
+Loop1148 
+Loop1149 
+Loop1150 
+Loop1151 
+Loop1152 
+Loop1153 
+Loop1154 
+Loop1155 
+Loop1156 
+Loop1157 
+Loop1158 
+Loop1159 
+Loop1160 
+Loop1161 
+Loop1162 
+Loop1163 
+Loop1164 
+Loop1165 
+Loop1166 
+Loop1167 
+Loop1168 
+Loop1169 
+Loop1170 
+Loop1171 
+Loop1172 
+Loop1173 
+Loop1174 
+Loop1175 
+Loop1176 
+Loop1177 
+Loop1178 
+Loop1179 
+Loop1180 
+Loop1181 
+Loop1182 
+Loop1183 
+Loop1184 
+Loop1185 
+Loop1186 
+Loop1187 
+Loop1188 
+Loop1189 
+Loop1190 
+Loop1191 
+Loop1192 
+Loop1193 
+Loop1194 
+Loop1195 
+Loop1196 
+Loop1197 
+Loop1198 
+Loop1199 
+Loop1200 
+Loop1201 
+Loop1202 
+Loop1203 
+Loop1204 
+Loop1205 
+Loop1206 
+Loop1207 
+Loop1208 
+Loop1209 
+Loop1210 
+Loop1211 
+Loop1212 
+Loop1213 
+Loop1214 
+Loop1215 
+Loop1216 
+Loop1217 
+Loop1218 
+Loop1219 
+Loop1220 
+Loop1221 
+Loop1222 
+Loop1223 
+Loop1224 
+Loop1225 
+Loop1226 
+Loop1227 
+Loop1228 
+Loop1229 
+Loop1230 
+Loop1231 
+Loop1232 
+Loop1233 
+Loop1234 
+Loop1235 
+Loop1236 
+Loop1237 
+Loop1238 
+Loop1239 
+Loop1240 
+Loop1241 
+Loop1242 
+Loop1243 
+Loop1244 
+Loop1245 
+Loop1246 
+Loop1247 
+Loop1248 
+Loop1249 
+Loop1250 
+Loop1251 
+Loop1252 
+Loop1253 
+Loop1254 
+Loop1255 
+Loop1256 
+Loop1257 
+Loop1258 
+Loop1259 
+Loop1260 
+Loop1261 
+Loop1262 
+Loop1263 
+Loop1264 
+Loop1265 
+Loop1266 
+Loop1267 
+Loop1268 
+Loop1269 
+Loop1270 
+Loop1271 
+Loop1272 
+Loop1273 
+Loop1274 
+Loop1275 
+Loop1276 
+Loop1277 
+Loop1278 
+Loop1279 
+Loop1280 
+Loop1281 
+Loop1282 
+Loop1283 
+Loop1284 
+Loop1285 
+Loop1286 
+Loop1287 
+Loop1288 
+Loop1289 
+Loop1290 
+Loop1291 
+Loop1292 
+Loop1293 
+Loop1294 
+Loop1295 
+Loop1296 
+Loop1297 
+Loop1298 
+Loop1299 
+Loop1300 
+Loop1301 
+Loop1302 
+Loop1303 
+Loop1304 
+Loop1305 
+Loop1306 
+Loop1307 
+Loop1308 
+Loop1309 
+Loop1310 
+Loop1311 
+Loop1312 
+Loop1313 
+Loop1314 
+Loop1315 
+Loop1316 
+Loop1317 
+Loop1318 
+Loop1319 
+Loop1320 
+Loop1321 
+Loop1322 
+Loop1323 
+Loop1324 
+Loop1325 
+Loop1326 
+Loop1327 
+Loop1328 
+Loop1329 
+Loop1330 
+Loop1331 
+Loop1332 
+Loop1333 
+Loop1334 
+Loop1335 
+Loop1336 
+Loop1337 
+Loop1338 
+Loop1339 
+Loop1340 
+Loop1341 
+Loop1342 
+Loop1343 
+Loop1344 
+Loop1345 
+Loop1346 
+Loop1347 
+Loop1348 
+Loop1349 
+Loop1350 
+Loop1351 
+Loop1352 
+Loop1353 
+Loop1354 
+Loop1355 
+Loop1356 
+Loop1357 
+Loop1358 
+Loop1359 
+Loop1360 
+Loop1361 
+Loop1362 
+Loop1363 
+Loop1364 
+Loop1365 
+Loop1366 
+Loop1367 
+Loop1368 
+Loop1369 
+Loop1370 
+Loop1371 
+Loop1372 
+Loop1373 
+Loop1374 
+Loop1375 
+Loop1376 
+Loop1377 
+Loop1378 
+Loop1379 
+Loop1380 
+Loop1381 
+Loop1382 
+Loop1383 
+Loop1384 
+Loop1385 
+Loop1386 
+Loop1387 
+Loop1388 
+Loop1389 
+Loop1390 
+Loop1391 
+Loop1392 
+Loop1393 
+Loop1394 
+Loop1395 
+Loop1396 
+Loop1397 
+Loop1398 
+Loop1399 
+Loop1400 
+Loop1401 
+Loop1402 
+Loop1403 
+Loop1404 
+Loop1405 
+Loop1406 
+Loop1407 
+Loop1408 
+Loop1409 
+Loop1410 
+Loop1411 
+Loop1412 
+Loop1413 
+Loop1414 
+Loop1415 
+Loop1416 
+Loop1417 
+Loop1418 
+Loop1419 
+Loop1420 
+Loop1421 
+Loop1422 
+Loop1423 
+Loop1424 
+Loop1425 
+Loop1426 
+Loop1427 
+Loop1428 
+Loop1429 
+Loop1430 
+Loop1431 
+Loop1432 
+Loop1433 
+Loop1434 
+Loop1435 
+Loop1436 
+Loop1437 
+Loop1438 
+Loop1439 
+Loop1440 
+Loop1441 
+Loop1442 
+Loop1443 
+Loop1444 
+Loop1445 
+Loop1446 
+Loop1447 
+Loop1448 
+Loop1449 
+Loop1450 
+Loop1451 
+Loop1452 
+Loop1453 
+Loop1454 
+Loop1455 
+Loop1456 
+Loop1457 
+Loop1458 
+Loop1459 
+Loop1460 
+Loop1461 
+Loop1462 
+Loop1463 
+Loop1464 
+Loop1465 
+Loop1466 
+Loop1467 
+Loop1468 
+Loop1469 
+Loop1470 
+Loop1471 
+Loop1472 
+Loop1473 
+Loop1474 
+Loop1475 
+Loop1476 
+Loop1477 
+Loop1478 
+Loop1479 
+Loop1480 
+Loop1481 
+Loop1482 
+Loop1483 
+Loop1484 
+Loop1485 
+Loop1486 
+Loop1487 
+Loop1488 
+Loop1489 
+Loop1490 
+Loop1491 
+Loop1492 
+Loop1493 
+Loop1494 
+Loop1495 
+Loop1496 
+Loop1497 
+Loop1498 
+Loop1499 
+Loop1500 
+Loop1501 
+Loop1502 
+Loop1503 
+Loop1504 
+Loop1505 
+Loop1506 
+Loop1507 
+Loop1508 
+Loop1509 
+Loop1510 
+Loop1511 
+Loop1512 
+Loop1513 
+Loop1514 
+Loop1515 
+Loop1516 
+Loop1517 
+Loop1518 
+Loop1519 
+Loop1520 
+Loop1521 
+Loop1522 
+Loop1523 
+Loop1524 
+Loop1525 
+Loop1526 
+Loop1527 
+Loop1528 
+Loop1529 
+Loop1530 
+Loop1531 
+Loop1532 
+Loop1533 
+Loop1534 
+Loop1535 
+Loop1536 
+Loop1537 
+Loop1538 
+Loop1539 
+Loop1540 
+Loop1541 
+Loop1542 
+Loop1543 
+Loop1544 
+Loop1545 
+Loop1546 
+Loop1547 
+Loop1548 
+Loop1549 
+Loop1550 
+Loop1551 
+Loop1552 
+Loop1553 
+Loop1554 
+Loop1555 
+Loop1556 
+Loop1557 
+Loop1558 
+Loop1559 
+Loop1560 
+Loop1561 
+Loop1562 
+Loop1563 
+Loop1564 
+Loop1565 
+Loop1566 
+Loop1567 
+Loop1568 
+Loop1569 
+Loop1570 
+Loop1571 
+Loop1572 
+Loop1573 
+Loop1574 
+Loop1575 
+Loop1576 
+Loop1577 
+Loop1578 
+Loop1579 
+Loop1580 
+Loop1581 
+Loop1582 
+Loop1583 
+Loop1584 
+Loop1585 
+Loop1586 
+Loop1587 
+Loop1588 
+Loop1589 
+Loop1590 
+Loop1591 
+Loop1592 
+Loop1593 
+Loop1594 
+Loop1595 
+Loop1596 
+Loop1597 
+Loop1598 
+Loop1599 
+Loop1600 
+Loop1601 
+Loop1602 
+Loop1603 
+Loop1604 
+Loop1605 
+Loop1606 
+Loop1607 
+Loop1608 
+Loop1609 
+Loop1610 
+Loop1611 
+Loop1612 
+Loop1613 
+Loop1614 
+Loop1615 
+Loop1616 
+Loop1617 
+Loop1618 
+Loop1619 
+Loop1620 
+Loop1621 
+Loop1622 
+Loop1623 
+Loop1624 
+Loop1625 
+Loop1626 
+Loop1627 
+Loop1628 
+Loop1629 
+Loop1630 
+Loop1631 
+Loop1632 
+Loop1633 
+Loop1634 
+Loop1635 
+Loop1636 
+Loop1637 
+Loop1638 
+Loop1639 
+Loop1640 
+Loop1641 
+Loop1642 
+Loop1643 
+Loop1644 
+Loop1645 
+Loop1646 
+Loop1647 
+Loop1648 
+Loop1649 
+Loop1650 
+Loop1651 
+Loop1652 
+Loop1653 
+Loop1654 
+Loop1655 
+Loop1656 
+Loop1657 
+Loop1658 
+Loop1659 
+Loop1660 
+Loop1661 
+Loop1662 
+Loop1663 
+Loop1664 
+Loop1665 
+Loop1666 
+Loop1667 
+Loop1668 
+Loop1669 
+Loop1670 
+Loop1671 
+Loop1672 
+Loop1673 
+Loop1674 
+Loop1675 
+Loop1676 
+Loop1677 
+Loop1678 
+Loop1679 
+Loop1680 
+Loop1681 
+Loop1682 
+Loop1683 
+Loop1684 
+Loop1685 
+Loop1686 
+Loop1687 
+Loop1688 
+Loop1689 
+Loop1690 
+Loop1691 
+Loop1692 
+Loop1693 
+Loop1694 
+Loop1695 
+Loop1696 
+Loop1697 
+Loop1698 
+Loop1699 
+Loop1700 
+Loop1701 
+Loop1702 
+Loop1703 
+Loop1704 
+Loop1705 
+Loop1706 
+Loop1707 
+Loop1708 
+Loop1709 
+Loop1710 
+Loop1711 
+Loop1712 
+Loop1713 
+Loop1714 
+Loop1715 
+Loop1716 
+Loop1717 
+Loop1718 
+Loop1719 
+Loop1720 
+Loop1721 
+Loop1722 
+Loop1723 
+Loop1724 
+Loop1725 
+Loop1726 
+Loop1727 
+Loop1728 
+Loop1729 
+Loop1730 
+Loop1731 
+Loop1732 
+Loop1733 
+Loop1734 
+Loop1735 
+Loop1736 
+Loop1737 
+Loop1738 
+Loop1739 
+Loop1740 
+Loop1741 
+Loop1742 
+Loop1743 
+Loop1744 
+Loop1745 
+Loop1746 
+Loop1747 
+Loop1748 
+Loop1749 
+Loop1750 
+Loop1751 
+Loop1752 
+Loop1753 
+Loop1754 
+Loop1755 
+Loop1756 
+Loop1757 
+Loop1758 
+Loop1759 
+Loop1760 
+Loop1761 
+Loop1762 
+Loop1763 
+Loop1764 
+Loop1765 
+Loop1766 
+Loop1767 
+Loop1768 
+Loop1769 
+Loop1770 
+Loop1771 
+Loop1772 
+Loop1773 
+Loop1774 
+Loop1775 
+Loop1776 
+Loop1777 
+Loop1778 
+Loop1779 
+Loop1780 
+Loop1781 
+Loop1782 
+Loop1783 
+Loop1784 
+Loop1785 
+Loop1786 
+Loop1787 
+Loop1788 
+Loop1789 
+Loop1790 
+Loop1791 
+Loop1792 
+Loop1793 
+Loop1794 
+Loop1795 
+Loop1796 
+Loop1797 
+Loop1798 
+Loop1799 
+Loop1800 
+Loop1801 
+Loop1802 
+Loop1803 
+Loop1804 
+Loop1805 
+Loop1806 
+Loop1807 
+Loop1808 
+Loop1809 
+Loop1810 
+Loop1811 
+Loop1812 
+Loop1813 
+Loop1814 
+Loop1815 
+Loop1816 
+Loop1817 
+Loop1818 
+Loop1819 
+Loop1820 
+Loop1821 
+Loop1822 
+Loop1823 
+Loop1824 
+Loop1825 
+Loop1826 
+Loop1827 
+Loop1828 
+Loop1829 
+Loop1830 
+Loop1831 
+Loop1832 
+Loop1833 
+Loop1834 
+Loop1835 
+Loop1836 
+Loop1837 
+Loop1838 
+Loop1839 
+Loop1840 
+Loop1841 
+Loop1842 
+Loop1843 
+Loop1844 
+Loop1845 
+Loop1846 
+Loop1847 
+Loop1848 
+Loop1849 
+Loop1850 
+Loop1851 
+Loop1852 
+Loop1853 
+Loop1854 
+Loop1855 
+Loop1856 
+Loop1857 
+Loop1858 
+Loop1859 
+Loop1860 
+Loop1861 
+Loop1862 
+Loop1863 
+Loop1864 
+Loop1865 
+Loop1866 
+Loop1867 
+Loop1868 
+Loop1869 
+Loop1870 
+Loop1871 
+Loop1872 
+Loop1873 
+Loop1874 
+Loop1875 
+Loop1876 
+Loop1877 
+Loop1878 
+Loop1879 
+Loop1880 
+Loop1881 
+Loop1882 
+Loop1883 
+Loop1884 
+Loop1885 
+Loop1886 
+Loop1887 
+Loop1888 
+Loop1889 
+Loop1890 
+Loop1891 
+Loop1892 
+Loop1893 
+Loop1894 
+Loop1895 
+Loop1896 
+Loop1897 
+Loop1898 
+Loop1899 
+Loop1900 
+Loop1901 
+Loop1902 
+Loop1903 
+Loop1904 
+Loop1905 
+Loop1906 
+Loop1907 
+Loop1908 
+Loop1909 
+Loop1910 
+Loop1911 
+Loop1912 
+Loop1913 
+Loop1914 
+Loop1915 
+Loop1916 
+Loop1917 
+Loop1918 
+Loop1919 
+Loop1920 
+Loop1921 
+Loop1922 
+Loop1923 
+Loop1924 
+Loop1925 
+Loop1926 
+Loop1927 
+Loop1928 
+Loop1929 
+Loop1930 
+Loop1931 
+Loop1932 
+Loop1933 
+Loop1934 
+Loop1935 
+Loop1936 
+Loop1937 
+Loop1938 
+Loop1939 
+Loop1940 
+Loop1941 
+Loop1942 
+Loop1943 
+Loop1944 
+Loop1945 
+Loop1946 
+Loop1947 
+Loop1948 
+Loop1949 
+Loop1950 
+Loop1951 
+Loop1952 
+Loop1953 
+Loop1954 
+Loop1955 
+Loop1956 
+Loop1957 
+Loop1958 
+Loop1959 
+Loop1960 
+Loop1961 
+Loop1962 
+Loop1963 
+Loop1964 
+Loop1965 
+Loop1966 
+Loop1967 
+Loop1968 
+Loop1969 
+Loop1970 
+Loop1971 
+Loop1972 
+Loop1973 
+Loop1974 
+Loop1975 
+Loop1976 
+Loop1977 
+Loop1978 
+Loop1979 
+Loop1980 
+Loop1981 
+Loop1982 
+Loop1983 
+Loop1984 
+Loop1985 
+Loop1986 
+Loop1987 
+Loop1988 
+Loop1989 
+Loop1990 
+Loop1991 
+Loop1992 
+Loop1993 
+Loop1994 
+Loop1995 
+Loop1996 
+Loop1997 
+Loop1998 
+Loop1999 
+Loop2000 
+Loop2001 
+Loop2002 
+Loop2003 
+Loop2004 
+Loop2005 
+Loop2006 
+Loop2007 
+Loop2008 
+Loop2009 
+Loop2010 
+Loop2011 
+Loop2012 
+Loop2013 
+Loop2014 
+Loop2015 
+Loop2016 
+Loop2017 
+Loop2018 
+Loop2019 
+Loop2020 
+Loop2021 
+Loop2022 
+Loop2023 
+Loop2024 
+Loop2025 
+Loop2026 
+Loop2027 
+Loop2028 
+Loop2029 
+Loop2030 
+Loop2031 
+Loop2032 
+Loop2033 
+Loop2034 
+Loop2035 
+Loop2036 
+Loop2037 
+Loop2038 
+Loop2039 
+Loop2040 
+Loop2041 
+Loop2042 
+Loop2043 
+Loop2044 
+Loop2045 
+Loop2046 
+Loop2047 
+Loop2048 
+Loop2049 
+Loop2050 
+Loop2051 
+Loop2052 
+Loop2053 
+Loop2054 
+Loop2055 
+Loop2056 
+Loop2057 
+Loop2058 
+Loop2059 
+Loop2060 
+Loop2061 
+Loop2062 
+Loop2063 
+Loop2064 
+Loop2065 
+Loop2066 
+Loop2067 
+Loop2068 
+Loop2069 
+Loop2070 
+Loop2071 
+Loop2072 
+Loop2073 
+Loop2074 
+Loop2075 
+Loop2076 
+Loop2077 
+Loop2078 
+Loop2079 
+Loop2080 
+Loop2081 
+Loop2082 
+Loop2083 
+Loop2084 
+Loop2085 
+Loop2086 
+Loop2087 
+Loop2088 
+Loop2089 
+Loop2090 
+Loop2091 
+Loop2092 
+Loop2093 
+Loop2094 
+Loop2095 
+Loop2096 
+Loop2097 
+Loop2098 
+Loop2099 
+Loop2100 
+Loop2101 
+Loop2102 
+Loop2103 
+Loop2104 
+Loop2105 
+Loop2106 
+Loop2107 
+Loop2108 
+Loop2109 
+Loop2110 
+Loop2111 
+Loop2112 
+Loop2113 
+Loop2114 
+Loop2115 
+Loop2116 
+Loop2117 
+Loop2118 
+Loop2119 
+Loop2120 
+Loop2121 
+Loop2122 
+Loop2123 
+Loop2124 
+Loop2125 
+Loop2126 
+Loop2127 
+Loop2128 
+Loop2129 
+Loop2130 
+Loop2131 
+Loop2132 
+Loop2133 
+Loop2134 
+Loop2135 
+Loop2136 
+Loop2137 
+Loop2138 
+Loop2139 
+Loop2140 
+Loop2141 
+Loop2142 
+Loop2143 
+Loop2144 
+Loop2145 
+Loop2146 
+Loop2147 
+Loop2148 
+Loop2149 
+Loop2150 
+Loop2151 
+Loop2152 
+Loop2153 
+Loop2154 
+Loop2155 
+Loop2156 
+Loop2157 
+Loop2158 
+Loop2159 
+Loop2160 
+Loop2161 
+Loop2162 
+Loop2163 
+Loop2164 
+Loop2165 
+Loop2166 
+Loop2167 
+Loop2168 
+Loop2169 
+Loop2170 
+Loop2171 
+Loop2172 
+Loop2173 
+Loop2174 
+Loop2175 
+Loop2176 
+Loop2177 
+Loop2178 
+Loop2179 
+Loop2180 
+Loop2181 
+Loop2182 
+Loop2183 
+Loop2184 
+Loop2185 
+Loop2186 
+Loop2187 
+Loop2188 
+Loop2189 
+Loop2190 
+Loop2191 
+Loop2192 
+Loop2193 
+Loop2194 
+Loop2195 
+Loop2196 
+Loop2197 
+Loop2198 
+Loop2199 
+Loop2200 
+Loop2201 
+Loop2202 
+Loop2203 
+Loop2204 
+Loop2205 
+Loop2206 
+Loop2207 
+Loop2208 
+Loop2209 
+Loop2210 
+Loop2211 
+Loop2212 
+Loop2213 
+Loop2214 
+Loop2215 
+Loop2216 
+Loop2217 
+Loop2218 
+Loop2219 
+Loop2220 
+Loop2221 
+Loop2222 
+Loop2223 
+Loop2224 
+Loop2225 
+Loop2226 
+Loop2227 
+Loop2228 
+Loop2229 
+Loop2230 
+Loop2231 
+Loop2232 
+Loop2233 
+Loop2234 
+Loop2235 
+Loop2236 
+Loop2237 
+Loop2238 
+Loop2239 
+Loop2240 
+Loop2241 
+Loop2242 
+Loop2243 
+Loop2244 
+Loop2245 
+Loop2246 
+Loop2247 
+Loop2248 
+Loop2249 
+Loop2250 
+Loop2251 
+Loop2252 
+Loop2253 
+Loop2254 
+Loop2255 
+Loop2256 
+Loop2257 
+Loop2258 
+Loop2259 
+Loop2260 
+Loop2261 
+Loop2262 
+Loop2263 
+Loop2264 
+Loop2265 
+Loop2266 
+Loop2267 
+Loop2268 
+Loop2269 
+Loop2270 
+Loop2271 
+Loop2272 
+Loop2273 
+Loop2274 
+Loop2275 
+Loop2276 
+Loop2277 
+Loop2278 
+Loop2279 
+Loop2280 
+Loop2281 
+Loop2282 
+Loop2283 
+Loop2284 
+Loop2285 
+Loop2286 
+Loop2287 
+Loop2288 
+Loop2289 
+Loop2290 
+Loop2291 
+Loop2292 
+Loop2293 
+Loop2294 
+Loop2295 
+Loop2296 
+Loop2297 
+Loop2298 
+Loop2299 
+Loop2300 
+Loop2301 
+Loop2302 
+Loop2303 
+Loop2304 
+Loop2305 
+Loop2306 
+Loop2307 
+Loop2308 
+Loop2309 
+Loop2310 
+Loop2311 
+Loop2312 
+Loop2313 
+Loop2314 
+Loop2315 
+Loop2316 
+Loop2317 
+Loop2318 
+Loop2319 
+Loop2320 
+Loop2321 
+Loop2322 
+Loop2323 
+Loop2324 
+Loop2325 
+Loop2326 
+Loop2327 
+Loop2328 
+Loop2329 
+Loop2330 
+Loop2331 
+Loop2332 
+Loop2333 
+Loop2334 
+Loop2335 
+Loop2336 
+Loop2337 
+Loop2338 
+Loop2339 
+Loop2340 
+Loop2341 
+Loop2342 
+Loop2343 
+Loop2344 
+Loop2345 
+Loop2346 
+Loop2347 
+Loop2348 
+Loop2349 
+Loop2350 
+Loop2351 
+Loop2352 
+Loop2353 
+Loop2354 
+Loop2355 
+Loop2356 
+Loop2357 
+Loop2358 
+Loop2359 
+Loop2360 
+Loop2361 
+Loop2362 
+Loop2363 
+Loop2364 
+Loop2365 
+Loop2366 
+Loop2367 
+Loop2368 
+Loop2369 
+Loop2370 
+Loop2371 
+Loop2372 
+Loop2373 
+Loop2374 
+Loop2375 
+Loop2376 
+Loop2377 
+Loop2378 
+Loop2379 
+Loop2380 
+Loop2381 
+Loop2382 
+Loop2383 
+Loop2384 
+Loop2385 
+Loop2386 
+Loop2387 
+Loop2388 
+Loop2389 
+Loop2390 
+Loop2391 
+Loop2392 
+Loop2393 
+Loop2394 
+Loop2395 
+Loop2396 
+Loop2397 
+Loop2398 
+Loop2399 
+Loop2400 
+Loop2401 
+Loop2402 
+Loop2403 
+Loop2404 
+Loop2405 
+Loop2406 
+Loop2407 
+Loop2408 
+Loop2409 
+Loop2410 
+Loop2411 
+Loop2412 
+Loop2413 
+Loop2414 
+Loop2415 
+Loop2416 
+Loop2417 
+Loop2418 
+Loop2419 
+Loop2420 
+Loop2421 
+Loop2422 
+Loop2423 
+Loop2424 
+Loop2425 
+Loop2426 
+Loop2427 
+Loop2428 
+Loop2429 
+Loop2430 
+Loop2431 
+Loop2432 
+Loop2433 
+Loop2434 
+Loop2435 
+Loop2436 
+Loop2437 
+Loop2438 
+Loop2439 
+Loop2440 
+Loop2441 
+Loop2442 
+Loop2443 
+Loop2444 
+Loop2445 
+Loop2446 
+Loop2447 
+Loop2448 
+Loop2449 
+Loop2450 
+Loop2451 
+Loop2452 
+Loop2453 
+Loop2454 
+Loop2455 
+Loop2456 
+Loop2457 
+Loop2458 
+Loop2459 
+Loop2460 
+Loop2461 
+Loop2462 
+Loop2463 
+Loop2464 
+Loop2465 
+Loop2466 
+Loop2467 
+Loop2468 
+Loop2469 
+Loop2470 
+Loop2471 
+Loop2472 
+Loop2473 
+Loop2474 
+Loop2475 
+Loop2476 
+Loop2477 
+Loop2478 
+Loop2479 
+Loop2480 
+Loop2481 
+Loop2482 
+Loop2483 
+Loop2484 
+Loop2485 
+Loop2486 
+Loop2487 
+Loop2488 
+Loop2489 
+Loop2490 
+Loop2491 
+Loop2492 
+Loop2493 
+Loop2494 
+Loop2495 
+Loop2496 
+Loop2497 
+Loop2498 
+Loop2499 
+Loop2500 
+Loop2501 
+Loop2502 
+Loop2503 
+Loop2504 
+Loop2505 
+Loop2506 
+Loop2507 
+Loop2508 
+Loop2509 
+Loop2510 
+Loop2511 
+Loop2512 
+Loop2513 
+Loop2514 
+Loop2515 
+Loop2516 
+Loop2517 
+Loop2518 
+Loop2519 
+Loop2520 
+Loop2521 
+Loop2522 
+Loop2523 
+Loop2524 
+Loop2525 
+Loop2526 
+Loop2527 
+Loop2528 
+Loop2529 
+Loop2530 
+Loop2531 
+Loop2532 
+Loop2533 
+Loop2534 
+Loop2535 
+Loop2536 
+Loop2537 
+Loop2538 
+Loop2539 
+Loop2540 
+Loop2541 
+Loop2542 
+Loop2543 
+Loop2544 
+Loop2545 
+Loop2546 
+Loop2547 
+Loop2548 
+Loop2549 
+Loop2550 
+Loop2551 
+Loop2552 
+Loop2553 
+Loop2554 
+Loop2555 
+Loop2556 
+Loop2557 
+Loop2558 
+Loop2559 
+Loop2560 
+Loop2561 
+Loop2562 
+Loop2563 
+Loop2564 
+Loop2565 
+Loop2566 
+Loop2567 
+Loop2568 
+Loop2569 
+Loop2570 
+Loop2571 
+Loop2572 
+Loop2573 
+Loop2574 
+Loop2575 
+Loop2576 
+Loop2577 
+Loop2578 
+Loop2579 
+Loop2580 
+Loop2581 
+Loop2582 
+Loop2583 
+Loop2584 
+Loop2585 
+Loop2586 
+Loop2587 
+Loop2588 
+Loop2589 
+Loop2590 
+Loop2591 
+Loop2592 
+Loop2593 
+Loop2594 
+Loop2595 
+Loop2596 
+Loop2597 
+Loop2598 
+Loop2599 
+Loop2600 
+Loop2601 
+Loop2602 
+Loop2603 
+Loop2604 
+Loop2605 
+Loop2606 
+Loop2607 
+Loop2608 
+Loop2609 
+Loop2610 
+Loop2611 
+Loop2612 
+Loop2613 
+Loop2614 
+Loop2615 
+Loop2616 
+Loop2617 
+Loop2618 
+Loop2619 
+Loop2620 
+Loop2621 
+Loop2622 
+Loop2623 
+Loop2624 
+Loop2625 
+Loop2626 
+Loop2627 
+Loop2628 
+Loop2629 
+Loop2630 
+Loop2631 
+Loop2632 
+Loop2633 
+Loop2634 
+Loop2635 
+Loop2636 
+Loop2637 
+Loop2638 
+Loop2639 
+Loop2640 
+Loop2641 
+Loop2642 
+Loop2643 
+Loop2644 
+Loop2645 
+Loop2646 
+Loop2647 
+Loop2648 
+Loop2649 
+Loop2650 
+Loop2651 
+Loop2652 
+Loop2653 
+Loop2654 
+Loop2655 
+Loop2656 
+Loop2657 
+Loop2658 
+Loop2659 
+Loop2660 
+Loop2661 
+Loop2662 
+Loop2663 
+Loop2664 
+Loop2665 
+Loop2666 
+Loop2667 
+Loop2668 
+Loop2669 
+Loop2670 
+Loop2671 
+Loop2672 
+Loop2673 
+Loop2674 
+Loop2675 
+Loop2676 
+Loop2677 
+Loop2678 
+Loop2679 
+Loop2680 
+Loop2681 
+Loop2682 
+Loop2683 
+Loop2684 
+Loop2685 
+Loop2686 
+Loop2687 
+Loop2688 
+Loop2689 
+Loop2690 
+Loop2691 
+Loop2692 
+Loop2693 
+Loop2694 
+Loop2695 
+Loop2696 
+Loop2697 
+Loop2698 
+Loop2699 
+Loop2700 
+Loop2701 
+Loop2702 
+Loop2703 
+Loop2704 
+Loop2705 
+Loop2706 
+Loop2707 
+Loop2708 
+Loop2709 
+Loop2710 
+Loop2711 
+Loop2712 
+Loop2713 
+Loop2714 
+Loop2715 
+Loop2716 
+Loop2717 
+Loop2718 
+Loop2719 
+Loop2720 
+Loop2721 
+Loop2722 
+Loop2723 
+Loop2724 
+Loop2725 
+Loop2726 
+Loop2727 
+Loop2728 
+Loop2729 
+Loop2730 
+Loop2731 
+Loop2732 
+Loop2733 
+Loop2734 
+Loop2735 
+Loop2736 
+Loop2737 
+Loop2738 
+Loop2739 
+Loop2740 
+Loop2741 
+Loop2742 
+Loop2743 
+Loop2744 
+Loop2745 
+Loop2746 
+Loop2747 
+Loop2748 
+Loop2749 
+Loop2750 
+Loop2751 
+Loop2752 
+Loop2753 
+Loop2754 
+Loop2755 
+Loop2756 
+Loop2757 
+Loop2758 
+Loop2759 
+Loop2760 
+Loop2761 
+Loop2762 
+Loop2763 
+Loop2764 
+Loop2765 
+Loop2766 
+Loop2767 
+Loop2768 
+Loop2769 
+Loop2770 
+Loop2771 
+Loop2772 
+Loop2773 
+Loop2774 
+Loop2775 
+Loop2776 
+Loop2777 
+Loop2778 
+Loop2779 
+Loop2780 
+Loop2781 
+Loop2782 
+Loop2783 
+Loop2784 
+Loop2785 
+Loop2786 
+Loop2787 
+Loop2788 
+Loop2789 
+Loop2790 
+Loop2791 
+Loop2792 
+Loop2793 
+Loop2794 
+Loop2795 
+Loop2796 
+Loop2797 
+Loop2798 
+Loop2799 
+Loop2800 
+Loop2801 
+Loop2802 
+Loop2803 
+Loop2804 
+Loop2805 
+Loop2806 
+Loop2807 
+Loop2808 
+Loop2809 
+Loop2810 
+Loop2811 
+Loop2812 
+Loop2813 
+Loop2814 
+Loop2815 
+Loop2816 
+Loop2817 
+Loop2818 
+Loop2819 
+Loop2820 
+Loop2821 
+Loop2822 
+Loop2823 
+Loop2824 
+Loop2825 
+Loop2826 
+Loop2827 
+Loop2828 
+Loop2829 
+Loop2830 
+Loop2831 
+Loop2832 
+Loop2833 
+Loop2834 
+Loop2835 
+Loop2836 
+Loop2837 
+Loop2838 
+Loop2839 
+Loop2840 
+Loop2841 
+Loop2842 
+Loop2843 
+Loop2844 
+Loop2845 
+Loop2846 
+Loop2847 
+Loop2848 
+Loop2849 
+Loop2850 
+Loop2851 
+Loop2852 
+Loop2853 
+Loop2854 
+Loop2855 
+Loop2856 
+Loop2857 
+Loop2858 
+Loop2859 
+Loop2860 
+Loop2861 
+Loop2862 
+Loop2863 
+Loop2864 
+Loop2865 
+Loop2866 
+Loop2867 
+Loop2868 
+Loop2869 
+Loop2870 
+Loop2871 
+Loop2872 
+Loop2873 
+Loop2874 
+Loop2875 
+Loop2876 
+Loop2877 
+Loop2878 
+Loop2879 
+Loop2880 
+Loop2881 
+Loop2882 
+Loop2883 
+Loop2884 
+Loop2885 
+Loop2886 
+Loop2887 
+Loop2888 
+Loop2889 
+Loop2890 
+Loop2891 
+Loop2892 
+Loop2893 
+Loop2894 
+Loop2895 
+Loop2896 
+Loop2897 
+Loop2898 
+Loop2899 
+Loop2900 
+Loop2901 
+Loop2902 
+Loop2903 
+Loop2904 
+Loop2905 
+Loop2906 
+Loop2907 
+Loop2908 
+Loop2909 
+Loop2910 
+Loop2911 
+Loop2912 
+Loop2913 
+Loop2914 
+Loop2915 
+Loop2916 
+Loop2917 
+Loop2918 
+Loop2919 
+Loop2920 
+Loop2921 
+Loop2922 
+Loop2923 
+Loop2924 
+Loop2925 
+Loop2926 
+Loop2927 
+Loop2928 
+Loop2929 
+Loop2930 
+Loop2931 
+Loop2932 
+Loop2933 
+Loop2934 
+Loop2935 
+Loop2936 
+Loop2937 
+Loop2938 
+Loop2939 
+Loop2940 
+Loop2941 
+Loop2942 
+Loop2943 
+Loop2944 
+Loop2945 
+Loop2946 
+Loop2947 
+Loop2948 
+Loop2949 
+Loop2950 
+Loop2951 
+Loop2952 
+Loop2953 
+Loop2954 
+Loop2955 
+Loop2956 
+Loop2957 
+Loop2958 
+Loop2959 
+Loop2960 
+Loop2961 
+Loop2962 
+Loop2963 
+Loop2964 
+Loop2965 
+Loop2966 
+Loop2967 
+Loop2968 
+Loop2969 
+Loop2970 
+Loop2971 
+Loop2972 
+Loop2973 
+Loop2974 
+Loop2975 
+Loop2976 
+Loop2977 
+Loop2978 
+Loop2979 
+Loop2980 
+Loop2981 
+Loop2982 
+Loop2983 
+Loop2984 
+Loop2985 
+Loop2986 
+Loop2987 
+Loop2988 
+Loop2989 
+Loop2990 
+Loop2991 
+Loop2992 
+Loop2993 
+Loop2994 
+Loop2995 
+Loop2996 
+Loop2997 
+Loop2998 
+Loop2999 
+Loop3000 
